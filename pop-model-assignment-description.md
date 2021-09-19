@@ -13,9 +13,9 @@ Population models can take many forms, but with populations we classify as age/s
 
 This project will be done in **groups of two students.** You are both expected to contribute equally to the project. You will both be required to turn in *identical* reports. 
 
-# Submitted Content
+## Submitted Content
 
-## Proposal
+### Proposal
 For this project, each group must submit a brief, 500 word proposal covering points 1-5 above. The purpose of this proposal is for the instructors to ensure you are on the right path, and to give you feedback on the model before you analyse it. The proposal should have:
 
 1. A brief paragraph on the species you selected, and it's life history. In this section, explicitly discuss the foundational papers on the species that you are using to describe the population and stage structure. 
@@ -24,9 +24,19 @@ For this project, each group must submit a brief, 500 word proposal covering poi
 
 See the grading rubric regarding how the proposal will be graded. 
 
-## Final Report
+### Final Report
 
-The final report will cover all the objectives listed above. It will be a maximum of 
+The final report will cover all the objectives listed above. It will be a maximum of 3000 words not including code. Information from your proposal can be copied directly into the final report. The report will have the basic sections of an academic manuscript: 
+1. **Introduction**
+  - Introduce the species, life history, why you chose this species, and outline the objectives of your analysis 
+2. **Model**
+  - Present your life-cycle graph with discussion, present your equations and define all parameters and state variables, present the population projection matrix, and provide all parameter values, citing the appropriate sources
+3. **Results**
+  - The meat of your report: present your analysis results including the population growth rate, the stable stage distribution, the elasticity analysis, any simulations you might have performed, and any sensitivity of the results to parameters you may not be certain about 
+4. **Discussion**
+  - Contextualize your results in the broader literature. Discuss how these results may inform conservation and management of the species in question, comment on whether or not the species is of interest broadly to conservation and mangement. In this section also include assumptions and caveats to your analysis, how your conclusions may be affected by them, and why you made them. 
+5. **References**
+- All references for your report including sources for parameterization are listed here. Format the citations in the style of the journal *Ecology*  
 
 # Submission Details
 
