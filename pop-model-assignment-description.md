@@ -36,7 +36,14 @@ The final report will cover all the objectives listed above. It will be a maximu
 4. **Discussion**
   - Contextualize your results in the broader literature. Discuss how these results may inform conservation and management of the species in question, comment on whether or not the species is of interest broadly to conservation and mangement. In this section also include assumptions and caveats to your analysis, how your conclusions may be affected by them, and why you made them. 
 5. **References**
-- All references for your report including sources for parameterization are listed here. Format the citations in the style of the journal *Ecology*  
+- All references for your report including sources for parameterization are listed here. Format the citations in the style of the journal *Ecology* 
+
+## Assessment
+
+| Compotnent      | Marks | Due Date |
+| ----------- | ----------- | ----------- |
+| Proposal      | 7       | Friday Oct. 22 @6PM |
+| Final Report   | 18        | Tuesday Oct. 26 Before class |
 
 # Submission Details
 
