@@ -45,8 +45,8 @@ The final report will cover all the objectives listed above. It will be a maximu
 | Proposal      | 7       | Friday Oct. 22 @6PM |
 | Final Report   | 18        | Tuesday Oct. 26 Before class |
 
-### Grading Rubric
-In summary, an excellent assignment will:
+### Grading 
+An excellent assignment will:
 - Contain all the required information in each section, presented clearly and concisely without errors - All figures and tables will have appropriate captions.
 - Be carefully researched - It will include appropriate references to available literature, which are not just cited but *interpreted*.
 - Be written clearly and concisely – each paragraph will have a topic sentence that summarizes the main point of the paragraph, followed by sentences that present and analyze the evidence supporting each main point. The tone will be appropriate for a formal scientific report. 
