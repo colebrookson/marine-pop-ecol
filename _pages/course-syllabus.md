@@ -38,69 +38,7 @@ challenge beyond that expected in any of BMSC’s field courses. However, activi
 
 ## Evaluation 
 
-## Grading
 
-<table>
-  <tr>
-    <th align="centre">
-      <img width="150" height="1">
-      <p> 
-      <large>
-      Letter Grade
-      </large>
-      </p>
-    <th align="center">
-      <img width="150" height="1">
-      <p> 
-      <large>
-      Percentage
-      </large>
-      </p>
-  <tr align="center">
-    <td> A+</td>
-    <td> 90-100</td>
-  </tr>
-  <tr align="center">
-    <td> A</td>
-    <td> 85-89</td>
-  </tr>
-  <tr align="center">
-    <td> A-</td>
-    <td> 80-84</td>
-  </tr>
-  <tr align="center">
-    <td> B+</td>
-    <td> 76-79</td>
-  </tr>
-  <tr align="center">
-    <td> B</td>
-    <td> 72-75</td>
-  </tr>
-  <tr align="center">
-    <td> B-</td>
-    <td> 68-71</td>
-  </tr>
-  <tr align="center">
-    <td> C+</td>
-    <td> 64-67</td>
-  </tr>
-  <tr align="center">
-    <td> C</td>
-    <td> 60-63</td>
-  </tr>
-  <tr align="center">
-    <td> C-</td>
-    <td> 55-59</td>
-  </tr>
-  <tr align="center">
-    <td> D</td>
-    <td> 50-54</td>
-  </tr>
-  <tr align="center">
-    <td> F</td>
-    <td> 0-49</td>
-  </tr>
-<table>
 
 <style>
   .content-table {
@@ -108,45 +46,119 @@ challenge beyond that expected in any of BMSC’s field courses. However, activi
     margin: 25px 0;
     font-size: 0.9em;
     min-width: 400px;
+    border-radius: 5px 5px 0 0;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
   }
+
+  .content-table thead tr {
+    background-color: #44d7a8;
+    color: #ffffff;
+    text-align: left;
+    font-weight: bold;
+  }
+
+  .content-table th,
+  .content-table td {
+    padding: 12px 15px;
+  }
+
+  .content-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+  }
+
+  .content-table tbody tr:last-of-type {
+    border-bottom: 2px solid #44d7a8;
+  }
+
+  tr:hover { background: #bebebe; }
+  td a { 
+      padding: 1px; 
+}
 </style>
+
+<a>
+
+</a>
 
 
 
 <table class="content-table">
     <thead>
         <tr>
-            <th>Component</th>
-            <th>Due Date</th>
-            <th>% of Grade</th>
+            <th width=400>Component</th>
+            <th width=400>Due Date</th>
+            <th width=174>% of Grade</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td> Species ID Assignment</td>
-            <td> 18 October 2021 @ 23:59</td>
-            <td> 15</td>
+            <td>Species ID Assignment</td>
+            <td>18 October 2021 @ 23:59</td>
+            <td>15</td>
         </tr>
         <tr>
-            <td> Paper Discussions</td>
-            <td> *see assignment details*</td>
-            <td> 20</td>
+            <td>Paper Discussions</td>
+            <td>see assignment details</td>
+            <td>20</td>
         </tr>
         <tr>
-            <td> Population Model</td>
-            <td> 26 October 2021 @ 23:59</td>
-            <td> 25</td>
+            <td>Population Model</td>
+            <td>26 October 2021 @ 23:59</td>
+            <td>25</td>
         </tr>
         <tr>
-            <td> Biodiversity Sampling</td>
-            <td> 01 November 2021 @ 09:00</td>
-            <td> 25</td>
+            <td>Biodiversity Sampling</td>
+            <td>01 November 2021 @ 09:00</td>
+            <td>25</td>
         </tr>
         <tr>
-            <td> Guest Speaker Quizes</td>
-            <td> 04 November 2021 @ 12:30</td>
-            <td> 15 </td>
+            <td>Guest Speaker Quizes</td>
+            <td>04 November 2021 @ 12:30</td>
+            <td>15</td>
         </tr>
     </tbody>
 </table>
 
+## Grading
+
+<table class="content-table">
+    <thead>
+        <tr>
+            <th width=400>Component</th>
+            <th width=400>Due Date</th>
+            <th width=174>% of Grade</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://colebrookson.github.io/marine-pop-ecol/assignments/species-id.com">Species ID</a></td>
+            <td>18 October 2021 @ 23:59</td>
+            <td>15</td>
+        </tr>
+        <tr>
+            <td><a href="https://colebrookson.github.io/marine-pop-ecol/assignments/paper-dis.com">Paper Discussions</a></td>
+            <td>see assignment details</td>
+            <td>20</td>
+        </tr>
+        <tr>
+            <td><a href="https://colebrookson.github.io/marine-pop-ecol/assignments/pop-model.com">Population Model</a></td>
+            <td>26 October 2021 @ 23:59</td>
+            <td>25</td>
+        </tr>
+        <tr>
+            <td>Biodiversity Sampling</td>
+            <td>01 November 2021 @ 09:00</td>
+            <td>25</td>
+        </tr>
+        <tr>
+            <td>Guest Speaker Quizes</td>
+            <td>04 November 2021 @ 12:30</td>
+            <td>15</td>
+        </tr>
+    </tbody>
+</table>
+
+<style>
+
+</style>
