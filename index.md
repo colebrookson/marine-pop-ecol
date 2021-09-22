@@ -34,9 +34,16 @@ This will involve some parts field work, some parts computational learning. Duri
 See the syllabus page for a detailed lay out of how the course is broken down and when you can expect to be doing what. In the meantime, check out this site and get familiar with how it works!![image-left](https://colebrookson.github.io/marine-pop-ecol/assets/images/project-matrix.png)
 
 
+### Why is this Course being hosted on GitHub? 
+
+We are hosting our entire course [here on this site](https://colebrookson.github.io/marine-pop-ecol/) where we keep all course materials like lectures, assignment descriptions, and (eventually) lecture and field trip recordings, and also through [GitHub Classrooms](https://classroom.github.com/classrooms/89663777-marine-population-ecology) which we use to support assignment submissions and hold starter code repositories. 
+
+Two reasons: 
+
+1. **Education shouldn't be proprietary.** This site serves two purposes. First, for students attending synchronously in-person in Fall 2021, it provides a simple place to host all course information. Second, in it's open format, provides a completely open and accessible platform for anyone with an internet connection to access the content of this course. 
+2. **It forces students to practice using version control at least a little bit every day.** The only way to learn a new tool is to use it. That's why we host all the materials (even ones that might not traditionally be held on a repository/website like this) here, so that each day, to access the course material and submit/work on assignments, you get some practice interacting with Git/GitHub. 
+
 ### Expectations & Code of Conduct
-
-
 
 **Some Specifics:**
 1. During class
