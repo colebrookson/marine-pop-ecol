@@ -4,11 +4,23 @@ layout: single
 title: Population Modeling Assignment Overview
 author_profile: false
 classes: wide
+excerpt: This assignment will introduce you to the wonderful world of population modeling. 
 sidebar:
   nav: "Course Materials"
+header:
+  overlay_filter: 0.5
+  overlay_image: /assets/images/matrix.png
+  actions:
+    - label: "Download"
+      url: "https://colebrookson.github.io/marine-pop-ecol/assignments/pop-model.pdf"
+  caption: "Photo credit: Jono Tonkin"
 ---
 
-Population models can take many forms, but with populations we classify as age/stage-structured, building models to explicitly account for those stages is helpful. The purpose of this assignment is to introduce you to modeling stage-structured populations in the form of matrix models. This assignment has two parts. Part 1 is a brief proposal of research so that we can make sure you are on the right track. Part 2 requires you to do research on your own and build a matrix model with accompanying write up. You will: 
+Population models can take many forms, but with populations we classify as age/stage-structured, building models to explicitly account for those stages is helpful. The purpose of this assignment is to introduce you to modeling stage-structured populations in the form of matrix models. This assignment has two parts. Part 1 is a brief proposal of research so that we can make sure you are on the right track. Part 2 requires you to do research on your own and build a matrix model with accompanying write up. 
+
+## Assignment Overview
+
+You will: 
 
 1. Select a species to analyse their population growth
 2. Report the life history of the species including stage structure 
@@ -20,6 +32,8 @@ Population models can take many forms, but with populations we classify as age/s
 8. Contextualize your results in the relevant literature
 
 This project will be done in **groups of two students.** You are both expected to contribute equally to the project. You will both be required to turn in *identical* reports. 
+
+*Note: Much of this content has been informed and borrowed from iterations of population ecology courses run by Drs. Stephanie Green & Martin Krkošek.*
 
 ## Submitted Content
 
