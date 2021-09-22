@@ -62,10 +62,94 @@ The final report will cover all the objectives listed above. It will be a maximu
 
 ## Assessment
 
-| Component      | Marks | Due Date |
-| ----------- | ----------- | ----------- |
-| Proposal      | 7       | Friday Oct. 22 @1800 |
-| Final Report   | 18        | Tuesday Oct. 26 @0830 |
+<style>
+  .evaluation-table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    min-width: 400px;
+    border-radius: 5px 5px 0 0;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  }
+
+  .evaluation-table thead tr {
+    background-color: #44d7a8;
+    color: #ffffff;
+    text-align: left;
+    font-weight: bold;
+  }
+
+  .evaluation-table th,
+  .evaluation-table td {
+    padding: 12px 15px;
+  }
+
+  .evaluation-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+  }
+
+  .evaluation-table tbody tr:last-of-type {
+    border-bottom: 2px solid #44d7a8;
+  }
+
+  .evaluation-table tr:hover { background: #bebebe; }
+  td a { 
+      padding: 1px; 
+  }
+
+  .grading-table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    min-width: 400px;
+    border-radius: 5px 5px 0 0;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  }
+
+  .grading-table thead tr {
+    background-color: #44d7a8;
+    color: #ffffff;
+    text-align: left;
+    font-weight: bold;
+  }
+
+  .grading-table th,
+  .grading-table td {
+    padding: 12px 15px;
+  }
+
+  .grading-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+  }
+
+  .grading-table tbody tr:last-of-type {
+    border-bottom: 2px solid #44d7a8;
+  }
+</style>
+
+<table class="evaluation-table">
+    <thead>
+        <tr>
+            <th width=400>Component</th>
+            <th width=400>Due Date</th>
+            <th width=174>% of Grade</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Proposal</td>
+            <td>22 October 2021 @ 18:00</td>
+            <td>7</td>
+        </tr>
+        <tr>
+            <td>Final Report</td>
+            <td>26 October @09:00</td>
+            <td>18</td>
+        </tr>
+    </tbody>
+</table>
 
 ### Grading 
 An excellent assignment will:
