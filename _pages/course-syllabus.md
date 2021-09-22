@@ -11,7 +11,7 @@ header:
     caption: "phdcomics.com"
     actions:
       - label: "Download"
-        url: "https://colebrookson.github.io/marine-pop-ecol/_pages/syllabus.pdf"
+        url: "https://colebrookson.github.io/marine-pop-ecol/_pages/course-syllabus.pdf"
 classes: wide
 sidebar:
   nav: "Course Materials"

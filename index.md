@@ -2,6 +2,7 @@
 layout: single
 author_profile: false
 title: "Marine Population Ecology & Dynamics"
+excerpt: In this course, we will explore key theories about the structure and dynamics of populations, communities, and ecosystems in coastal marine environments.
 header:
     overlay_image: /assets/images/bamfield-1.jpg
     caption: "Photo credits: BMSC"
