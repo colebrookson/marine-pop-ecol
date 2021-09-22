@@ -8,6 +8,16 @@ sidebar:
   nav: "sessions"
 ---
 
+## Git/GitHub
+
+## `git add, git commit, git push` 
+
+## RMarkdown
+
+## GitHub Classroom
+
+
+
 ## RStudio & General Helpful Links:
 
 Some helpful tips & tricks to work more effectively in [RStudio](https://towardsdatascience.com/tips-and-tricks-in-rstudio-and-r-markdown-7a464508b0c)
