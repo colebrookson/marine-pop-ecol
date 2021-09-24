@@ -1,7 +1,7 @@
 ---
 permalink: /course-syllabus/
 layout: single
-title: Fall 2021 Syllabus
+title: Fall 2021 Marine Populatoin Ecology & Dynamics Syllabus
 author_profile: false
 excerpt: "We beg of you, please check the syllabus"
 header:
@@ -17,19 +17,18 @@ sidebar:
   nav: "Course Materials"
 ---
 
-**Instructor:** Dr. Alexandra (Alex) Davis -- acdavis@ualberta.ca 
+**Instructor:** Dr. Alexandra (Alex) Davis (she/her)-- acdavis@ualberta.ca 
 
-**TA:** Cole Brookson -- brookson@ualberta.ca
+**Teaching Assistant:** Cole Brookson (he/him) -- brookson@ualberta.ca
 
 ## Course Description 
 
-This course explores fundamental theories in marine ecology at population, community, and ecosystem levels of biological organization. Our discussions and activities will draw on primary research literature, with an emphasis on case studies from temperate Pacific nearshore marine ecosystems. We will use case studies to explore topics including population dynamics and regulation, life history patterns, ecological subsidies, food webs, indirect effects, introduced species, fisheries, and at-risk species using field, laboratory, and quantitative modeling approaches. We will explore these concepts through the lens of conserving and restoring wild populations.
+This course explores fundamental theories in marine ecology at population, community, and ecosystem levels of biological organization. Our discussions and activities will draw on primary research literature, with an emphasis on case studies from temperate Pacific nearshore marine ecosystems. We will explore topics including population dynamics and regulation, life history patterns, ecological subsidies, food webs, indirect effects, introduced species, fisheries, and at-risk species using field, laboratory, and quantitative modeling approaches. We will explore these concepts through the lens of conserving and managing wild populations.
 
 ### Research skills 
 
 During field trips and in the lab, you will learn many of the practical tools
-marine ecologists use to evaluate the status of populations and communities (e.g. species identification, natural history observation, quadrat and transect sampling, and historical ecology techniques). Conducting regular paper discussions in class will develop and reinforce your ability to efficiently digest and critically evaluate peer-reviewed scientific literature, demonstrated through a mock peer-review assignment. You will also learn how to construct and evaluate a simple population model in relation to management decisions. Throughout the course you will gain hands-on training in statistical analysis and graphing using R, a powerful, open-source statistical programming language now used by most practicing biologists. Throughout these
-activities you will hone your skills in critical thinking, creative problem solving, logical reasoning, effective collaboration, and clear visual and verbal communication.
+marine ecologists use to evaluate the status of populations and communities (e.g. species identification, natural history observation, intertidal sampling, and historical ecology techniques). Regular paper discussions will develop and reinforce your ability to efficiently digest and critically evaluate peer-reviewed scientific literature. You will also learn essential quantitative modeling skills through the construction and assesment of a stage-based population model. Throughout the course you will gain hands-on training in computational analysis, programming, and version control. For this course we will be using R/RStudio (an open source statistical programming language and IDE (Integrated Development Environment)), and Git/GitHub, the industry standard version control software. Throughout these activities you will hone your skills in critical thinking, creative problem solving, logical reasoning, effective collaboration, and clear visual and verbal communication.
 
 ### Physical requirements
 
@@ -118,28 +117,33 @@ challenge beyond that expected in any of BMSC’s field courses. However, activi
     <tbody>
         <tr>
             <td><a href="https://colebrookson.github.io/marine-pop-ecol/assignments/species-id.com">Species ID</a></td>
-            <td>18 October 2021 @ 23:59</td>
+            <td>Monday 18 October 2021 @ 18:00</td>
             <td>15</td>
         </tr>
         <tr>
             <td><a href="https://colebrookson.github.io/marine-pop-ecol/assignments/paper-dis.com">Paper Discussions</a></td>
             <td>see assignment details</td>
-            <td>20</td>
+            <td>15</td>
         </tr>
         <tr>
             <td><a href="https://colebrookson.github.io/marine-pop-ecol/assignments/pop-model.com">Population Model</a></td>
-            <td>26 October 2021 @ 23:59</td>
+            <td>Tuesday 26 October 2021 @ 23:59</td>
             <td>25</td>
         </tr>
         <tr>
-            <td><a href="https://colebrookson.github.io/marine-pop-ecol/assignments/biodiv-sampling.com">Biodiversity Sampling</a></td>
-            <td>01 November 2021 @ 09:00</td>
-            <td>25</td>
+            <td><a href="https://colebrookson.github.io/marine-pop-ecol/assignments/biodiv-sampling.com">Field Sampling</a></td>
+            <td>Monday 01 November 2021 @ 14:00</td>
+            <td>15 (5)</td>
         </tr>
         <tr>
-            <td><a href="https://colebrookson.github.io/marine-pop-ecol/assignments/guest-quiz.com">Guest Speaker Quiz</a></td>
-            <td>04 November 2021 @ 12:30</td>
+            <td><a href="https://colebrookson.github.io/marine-pop-ecol/assignments/guest-quiz.com">Guest Speaker Writeup</a></td>
+            <td>Friday 05 November 2021 @ 10:00</td>
             <td>15</td>
+        </tr>
+        <tr>
+            <td><a href="https://colebrookson.github.io/marine-pop-ecol/assignments/open-science.com">Proficiency in Open Science Practices</a></td>
+            <td>15 & 26 October, 01 November</td>
+            <td>10</td>
         </tr>
     </tbody>
 </table>
@@ -201,7 +205,25 @@ challenge beyond that expected in any of BMSC’s field courses. However, activi
     </tbody>
 </table>
 
-## Academic Integrity
+### Academic integrity:
 
 Academic integrity requires commitment to the values of honesty, trust, fairness, respect, and responsibility. It is expected that students, faculty members and staff at BMSC, as members of an intellectual community, will adhere to these ethical values in all activities related to learning, teaching, research and service. Any action that contravenes this standard, including misrepresentation, falsification or deception, undermines the intention and worth of scholarly work and violates the fundamental academic rights of members of our community. This policy is designed to ensure that the university’s standards are upheld in a fair and transparent fashion. Students are responsible for the entire content and form of their work. Nothing in this policy is
-intended to prohibit students from developing their academic skills through the exchange of ideas and the utilization of resources available to support learning. Students who are in doubt as to what constitutes a violation of academic integrity in a particular instance should consult their course instructor. 
+intended to prohibit students from developing their academic skills through the exchange of ideas and the utilization of resources available to support learning. Students who are in doubt as to what constitutes a violation of academic integrity in a particular instance should consult their course instructor or refer to individual school policies for more details.
+
+UVic: www.uvic.ca/library/research/citation/plagiarism/index.php 
+
+UofA: https://www.ualberta.ca/current-students/academic-resources/academicintegrity/plagiarism.html
+
+UBC: http://learningcommons.ubc.ca/resource-guides/avoiding-plagiarism/ 
+
+SFU: http://www.sfu.ca/policies/gazette/student/s10-01.html 
+
+UofC: https://www.ucalgary.ca/pubs/calendar/current/k-3.html 
+
+### Land Acknowledgement 
+
+ BMSC is situated on the traditional territory of the Huu-ay-aht First  Nations, a Nuu-chah-nulth Nation and signatory to the Maa-nulth First Nations Final Agreement. We encourage you to learn about and from the Huu-ay-aht throughout your time at BMSC. 
+
+Huu-ay-aht First Nations website: https://huuayaht.org/ 
+
+More information on Kiixin : https://kiixin.ca/
