@@ -1,7 +1,7 @@
 ---
 permalink: /assignments/biodiv-sample/
 layout: single
-title: Biodiversity Sampling Assignment Overview
+title: Field Sampling Assignment Overview
 author_profile: false
 classes: wide
 excerpt: We will collect organisms from the field and ask questions about how diversity differs according to environment. 
@@ -12,7 +12,7 @@ header:
   overlay_image: /assets/images/osu-sampling.jpg
   actions:
     - label: "Download"
-      url: "https://colebrookson.github.io/marine-pop-ecol/assignments/pop-model.pdf"
+      url: "https://colebrookson.github.io/marine-pop-ecol/assignments/biodiv-sample.pdf"
   caption: "Photo credit: Bruce Menge"
 ---
 
