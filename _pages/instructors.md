@@ -2,13 +2,11 @@
 permalink: /instructors/
 layout: single
 title: Instructors
+excerpt: We are super excited to be teaching this course and look forward to making this course a great experience for the in-person students! We are also committed to making ALL our content available for free to anyone who would like to use it.
 header:
-    overlay_image: /assets/images/alex-and-cole.jpg
+    overlay_image: /assets/images/alex-cole.jpg
+    overlay_filter: 0.2
     author_profile: false
-    caption: "Photo credit: **C. Brookson**"
-    actions:
-      - label: " "
-        url: ""
 classes: wide
 sidebar:
   nav: "Course Materials"

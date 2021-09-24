@@ -20,14 +20,24 @@ Along with the associated [assignment](/assignments/guest-speakers.md), please c
 
 ## Confirmed Speakers:
 
+### Dr. Shannon M. Hennessey <img align="left" src="/assets/images/shannon-m-h.jpg" style="padding: 15px" alt="drawing" width="300"/>
+
+Dr. Hennessey completed her PhD at Oregon State University with Dr. Mark Novak. She is a scientific illustrator, a researcher, and a conservation practioner. 
+
+She is an empirical and quantitatively-trained marine ecologist, broadly interested in the impacts of humans and environmental stressors on fish and invertebrate populations, species interactions, and community structure. 
+
+
+
+
+
+
+ 
+
+.
 
 
 
 ### Emma M. Atkinson <img align="left" src="/assets/images/emma-m-a.jpg" style="padding: 15px" alt="drawing" width="300"/>
 
-Emma is a PhD student at the University of Alberta with Dr. Mark Lewis. 
+Emma is a PhD student at the University of Alberta with Dr. Mark Lewis. She works on research questions to do with the population dynamics and fisheries management of marine invertebrates. When she's not coding in R, she likes to cycle, run, and spend time on the water.
 
-
-### Dr. Shannon M. Hennessey <img align="left" src="/assets/images/shannon-m-h.jpg" style="padding: 15px" alt="drawing" width="300"/>
-
-Dr. Hennessey completed her PhD at Oregon State University. 
