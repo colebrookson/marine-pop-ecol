@@ -31,21 +31,26 @@ Course Materials:
         url: /assignments/paper-dis/
   - title: Readings
     children: 
-      - title: "1 - XXXX"
+      - title: "1 - TBD"
         url: /readings/reading-1/
-      - title: "2 - XXXX"
+      - title: "2 - Bernhardt & O'Connor 2020"
+        url: /readings/bernhardt-oconnor.pdf/
+      - title: "3 - Crouse et al. 1987"
+        url: /readings/crouse-etal.pdf/
+      - title: "4 - TBD"
         url: /readings/reading-2/
-      - title: "3 - XXXX"
+      - title: "5 - TBD"
         url: /readings/reading-2/
-      - title: "4 - XXXX"
-        url: /readings/reading-2/
-      - title: "5 - XXXX"
-        url: /readings/reading-2/
-      - title: "6 - XXXX"
-        url: /readings/reading-2/
-      - title: "7 - XXXX"
-        url: /readings/reading-2/
+      - title: "6 - Beltran et al. 2020"
+        url: /readings/beltran-etal.pdf/
   - title: Guest Speakers
+    url: /guest-speakers/
     children:
-      - title: "TBD!!"
+      - title: "Dr. Shannon M. Hennessey"
+        url: /guest-speakers/
+      - title: Emma Atkinson
+        url: /guest-speakers/
+      - title: "TBD"
+        url: /guest-speakers/
+      - title: "Dr. Karlisa Calwood"
         url: /guest-speakers/

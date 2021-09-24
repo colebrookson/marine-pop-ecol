@@ -1,7 +1,7 @@
 ---
 permalink: /course-syllabus/
 layout: single
-title: Fall 2021 Marine Populatoin Ecology & Dynamics Syllabus
+title: Fall 2021 Syllabus
 author_profile: false
 excerpt: "We beg of you, please check the syllabus"
 header:

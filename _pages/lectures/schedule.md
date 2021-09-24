@@ -15,7 +15,7 @@ sidebar:
   nav: "Course Materials"
 ---
 
-Find here the course schedule for this whirlwind three weeks of content. As content fills in it will be posted, and any lecture with slides/recordings will be turned into hot links. 
+Find here the course schedule for this whirlwind four weeks of content. As content fills in it will be posted, and any lecture with slides/recordings will be turned into hot links. 
 <style>
   .schedule-table {
     border-collapse: collapse;

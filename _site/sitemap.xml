@@ -13,6 +13,9 @@
 <loc>http://localhost:4000/course-syllabus/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/guest-speakers/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/assignments/guest-speakers/</loc>
 </url>
 <url>
@@ -25,7 +28,7 @@
 <loc>http://localhost:4000/lectures/landing/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/_pages/lectures/lectures-draft/</loc>
+<loc>http://localhost:4000/lectures/landing-draft/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/assignments/guest-speakers/</loc>
