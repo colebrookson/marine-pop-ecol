@@ -1,9 +1,9 @@
 ---
-permalink: /assignments/guest-speakers/
+permalink: /assignments/paper-disscussions/
 layout: single
-title: Guest Speakers Questions & Quiz
+title: Student-led Paper Discussions
 author_profile: false
-excerpt: "Throughout the course, a series of guest speakers will join the class to give talks on their research, their jobs, and how they think about science"
+excerpt: "Each student will, as a member of a group, be responsible for a deep reading and leading the discussion of one paper at some point in the course"
 header:
     overlay_image: /assets/images/papers.png
     overlay_filter: 0.5
@@ -11,20 +11,21 @@ header:
     caption: ""
     actions:
       - label: "Download"
-        url: "https://colebrookson.github.io/marine-pop-ecol/_pages/paper-discussions.pdf"
+        url: "https://colebrookson.github.io/marine-pop-ecol/assignments/paper-discussions.pdf"
 classes: wide
 sidebar:
   nav: "Course Materials"
 ---
 
-What is primary literature?  
+### What is primary literature?  
+
 In the sciences, primary literature is the original publication of a scientist's new data, results, and theories. Journal articles—which go through a peer-review process—are the main format in which primary literature is found. There are many articles published in scholarly journals that are not primary literature, particularly review articles, which do not report new findings but review what is already known. Also, there are some websites that contain primary literature which are full of credible primary data and are not likely to be published in journal article or even book form (e.g. the Western technical government reports housed in Canada’s Federal Science Library; https://science-libraries.canada.ca/eng/home/ or Regional Climate Center; https://wrcc.dri.edu/). Note that being "primary" is in itself no indicator of the quality of the item (see http://retractionwatch.com/); for that we use peer review.
 
-How do I know if a source is "primary" literature?
+### How do I know if a source is "primary" literature?
 
 Ask yourself, does it have a "Materials and Methods" section?  If it has such a section, it is likely primary. This will work for most of the articles you will come across.  There are some exceptions to that rule, however. The best thing is to use your judgment.  Secondary literature includes review articles (which include reviews of the literature) textbooks, and most scholarly or academic books (that repeat information that is already published).  The vast majority of popular periodical publications (magazines, trade journals, newspapers) are usually considered tertiary literature, in that they are repeating information that has already been published and they are usually written for a non-technical audience.
 
-### Assignment details (40 points)
+## Assignment details (40 points)
 
 You are responsible for guiding your classmates through a primary research article that focuses on topic we recently covered in class (see the sign up list for dates and the corresponding article/topic; 4 students will co-lead each session). You will then share your expertise back with your peers.
 

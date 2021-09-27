@@ -1,5 +1,5 @@
 ---
-permalink: /assignments/guest-speakers/
+permalink: /assignments/guest-quiz/
 layout: single
 title: Guest Speakers Questions & Quiz
 author_profile: false
@@ -33,6 +33,6 @@ Each speacker has also been asked to impart two *vital* pieces of information to
 6. **How can you use the information presented outside of this corse?**
 
 ### At the end of the term you will write a reflection on (15 points total):
-- what you learned from the entire speaker series (5 points)
-- 3 vital pieces of information were given to you to suceed as ecologists (6 points)
-- how/ what information from the lectures you were able to use during the course (4 points)
+- What you learned from the entire speaker series (5 points)
+- Three vital pieces of information were given to you to suceed as ecologists (6 points)
+- How some (if any) information from the lectures you were able to use during the course (4 points)
