@@ -24,7 +24,7 @@ Along with the associated [assignment](/assignments/guest-speakers.md), please c
 
 Dr. Hennessey completed her PhD at Oregon State University with Dr. Mark Novak. She is a scientific illustrator, a researcher, and a conservation practioner. 
 
-She is an empirical and quantitatively-trained marine ecologist, broadly interested in the impacts of humans and environmental stressors on fish and invertebrate populations, species interactions, and community structure. 
+She is an empirical and quantitatively-trained marine ecologist, broadly interested in the impacts of humans and environmental stressors on fish and invertebrate populations, species interactions, and community structure. website: [https://shannonmhennessey.weebly.com/](https://shannonmhennessey.weebly.com/)
 
 
 
