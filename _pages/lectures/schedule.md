@@ -3,6 +3,7 @@ permalink: /lectures/schedule/
 layout: single
 title: Class Schedule
 author_profile: false
+excerpt: "Here is our class schedule for the whirlwind 3.5 weeks. All field trips, guest lectures, and due dates are set, lecture/lab topics might change. The lecture/lab topics for the week will be updated at latest the weekend before."
 header:
     overlay_image: /assets/images/sean-boat.jpg
     author_profile: false
@@ -21,7 +22,7 @@ Find here the course schedule for this whirlwind four weeks of content. As conte
     border-collapse: collapse;
     border: 1px #ffffff;
     margin: 25px 0;
-    min-width: 400px;
+    min-width: 500px;
     border-radius: 5px 5px 0 0;
     overflow: hidden;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
@@ -78,19 +79,19 @@ Find here the course schedule for this whirlwind four weeks of content. As conte
             <td>October 13</td>
             <td>Wednesday</td>
             <td rowspan="3">Patterns & Processes</td>
-            <td>Syllabus, introductions, course goals</td>
-            <td></td>
-            <td>Lab Period - ID Assignment</td>
+            <td>Syllabus, introductions, course goals </td>
+            <td>Niche concept, biodiversity patterns & precesses</td>
+            <td>Lab - ID Assignment</td>
             <td> </td>
-            <td> </td>
-            <td>Sign up for paper discussion groups & dates</td>
+            <td>Reading 1 - TBD</td>
+            <td style="background-color: #f88379">Sign up for paper discussion groups & dates due @23:59</td>
         </tr>
         <tr>
             <td>October 14</td>
             <td>Thursday</td>
-            <td>Niche concept, biodiversity patterns</td>
-            <td></td>
-            <td>Lab Period - ID Assignment</td>
+            <td>Citizen science, biodiversity assessment</td>
+            <td>Lab - Git/GitHub Review</td>
+            <td style="background-color: #f2e4fd">Guest Lecture - Dr. Shannon Hennessey</td>
             <td>ADA</td>
             <td> </td>
             <td></td>
@@ -99,10 +100,10 @@ Find here the course schedule for this whirlwind four weeks of content. As conte
             <td>October 15</td>
             <td>Friday </td>
             <td>Population assessment</td>
-            <td></td>
-            <td colspan="2" style="background-color: #83eeff">Field trip - Low Tide (1.6m tide @1530)</td>
-            <td> </td>
-            <td></td>
+            <td style="background-color: #f88379"> Paper Discussion - Group 1</td>
+            <td colspan="2" style="background-color: #83eeff">Field trip - Low Tide (1.6m tide @15:30)</td>
+            <td> Reading 2 - Bernhardt & O'Connor (2021)</td>
+            <td style="background-color: #f88379"> Github Classroom Assignment due @23:59</td>
         </tr>
         <tr style="background-color:#d3d3d3">
             <td>October 16 & 17</td>
@@ -119,52 +120,51 @@ Find here the course schedule for this whirlwind four weeks of content. As conte
             <td>October 18</td>
             <td>Monday</td>
             <td rowspan="5">Population Models </td>
-            <td>Population vital rates & life table analysis</td>
-            <td></td>
-            <td>Species ID presentations</td>
+            <td>Lecture</td>
+            <td style="background-color: #f88379">Species ID presentations</td>
+            <td style="background-color: #f88379">Paper Discussion - Group 2</td>
             <td> </td>
-            <td> </td>
-            <td>ID assignment due; group 1 paper summary due</td>
+            <td> Reading 3 - Crouse et al. (1987)</td>
+            <td style="background-color: #f88379">ID Assignment due; Group 1 Paper Summary due @17:00</td>
         </tr>
         <tr>
             <td>October 19</td>
             <td>Tuesday</td>
-            <td>TBD - Possible Guest Speaker</td>
-            <td>Paper Discussion - Group 2</td>
-            <td>Lab Period - Population Models</td>
-            <td>ADA - lightning talks </td>
+            <td>Lecture</td>
+            <td style="background-color: #f2e4fd">Guest Lecture - Emma Atkinson</td>
+            <td>Lecture</td>
+            <td>ADA</td>
             <td> </td>
             <td> </td>
         </tr>
         <tr>
             <td>October 20</td>
             <td>Wednesday</td>
-            <td style="background-color: #83eeff">Field Trip - Historical society</td>
-            <td></td>
-            <td>Lab Period- Population Models</td>
+            <td colspan="2"> Working hours</td>
+            <td style="background-color: #83eeff">Field trip - Historical Society</td>
             <td>DS</td>
+            <td></td>
             <td> </td>
-            <td>Species selection due</td>
         </tr>
         <tr>
             <td>October 21</td>
             <td>Thursday</td>
-            <td>Population model sensitivity & elasticity analysis</td>
-            <td> </td>
-            <td>Lab Period - Population Models</td>
+            <td>Lecture</td>
+            <td>Lab</td>
+            <td></td>
             <td>ADA</td>
             <td> </td>
-            <td></td>
+            <td style="background-color: #f88379">Group 2 Reading Summary due @19:00</td>
         </tr>
         <tr>
             <td>October 22</td>
             <td>Friday</td>
-            <td>Class time to design sampling protocols and questions for sampling assignment</td>
-            <td>Paper Discussion - Group 3</td>
-            <td>Lab Period - Population Models</td>
+            <td>Lecture</td>
+            <td style="background-color: #f88379">Paper Discussion - Group 3</td>
+            <td>Lab</td>
             <td> </td>
-            <td> </td>
-            <td>Proposal Due for Population Model Assignment</td>
+            <td> Reading 4 - TBD</td>
+            <td style="background-color: #f88379">Population Model Proposal due @17:00</td>
         </tr>
         <tr style="background-color:#d3d3d3">
             <td>October 23 & 24</td>
@@ -182,48 +182,48 @@ Find here the course schedule for this whirlwind four weeks of content. As conte
             <td>Monday</td>
             <td rowspan="5">Within & Between Ecosystems, Interactions, Biodiversity</td>
             <td colspan="2" style="background-color: #83eeff">Field trip - Low Tide (1.8m @0920)</td>
-            <td>Lab Period - Sampling Assignment</td>
-            <td>DS/ADA</td>
+            <td>Lab</td>
+            <td></td>
             <td> </td>
-            <td>Group 3 summary due</td>
+            <td style="background-color: #f88379">Group 3 Reading Summary due @19:00</td>
         </tr>
         <tr>
             <td>October 26</td>
             <td>Tuesday</td>
-            <td></td>
-            <td>Paper discussion - Group 4</td>
-            <td>Lab Period - Sampling Assignment</td>
+            <td>Lecture</td>
+            <td style="background-color: #f88379">Paper discussion - Group 4</td>
+            <td>Lab</td>
             <td>ADA</td>
-            <td> </td>
-            <td>Population assignment due @23:59</td>
+            <td> Reading 5 - TBD</td>
+            <td style="background-color: #f88379">Population assignment due @23:59</td>
         </tr>
         <tr>
             <td>October 27</td>
             <td>Wednesday</td>
+            <td>Lecture</td>
+            <td>Lab</td>
             <td></td>
-            <td></td>
-            <td>Lab Period - Sampling Assignment</td>
-            <td> DS/ADA</td>
+            <td> DS</td>
             <td> </td>
-            <td>Sign up for paper discussion groups & dates</td>
+            <td></td>
         </tr>
         <tr>
             <td>October 28</td>
             <td>Thursday</td>
             <td colspan="3" style="background-color: #83eeff">Field Trip - Sugsaw Creek Salmon Walk & Hatchery Visit</td>
-            <td> ADA</td>
+            <td>ADA</td>
             <td> </td>
             <td></td>
         </tr>
         <tr>
             <td>October 29</td>
             <td>Friday</td>
+            <td>Lecture</td>
+            <td>Lab</td>
+            <td style="background-color: #f88379">Paper discussion - Group 5</td>
             <td></td>
-            <td></td>
-            <td>Paper discussion - Group 5</td>
-            <td> </td>
-            <td>DS/ADA</td>
-            <td>Group 4 Summary due</td>
+            <td> Reading 6 - Beltran et al. (2020)</td>
+            <td style="background-color: #f88379">Group 4 Reading Summary due @17:00</td>
         </tr>
         <tr style="background-color:#d3d3d3">
             <td>October 30 & 31</td>
@@ -240,19 +240,19 @@ Find here the course schedule for this whirlwind four weeks of content. As conte
             <td>November 01</td>
             <td>Monday</td>
             <td rowspan="5">Conservation, Restoration, Open Science</td>
-            <td></td>
-            <td></td>
-            <td>Sampling Assignment Presentations</td>
+            <td>Lecture</td>
+            <td>Lab</td>
+            <td style="background-color: #f88379">Sampling Assignment Presentations</td>
             <td> </td>
             <td> </td>
-            <td>Group 5 summary due</td>
+            <td style="background-color: #f88379">Group 5 Reading Summary due @17:00</td>
         </tr>
         <tr>
             <td>November 02</td>
             <td>Tuesday</td>
-            <td></td>
-            <td>Paper discussion - Group 6</td>
-            <td></td>
+            <td>Lecture</td>
+            <td>Lab</td>
+            <td style="background-color: #f88379">Paper discussion - Group 6</td>
             <td>ADA</td>
             <td> </td>
             <td></td>
@@ -268,22 +268,22 @@ Find here the course schedule for this whirlwind four weeks of content. As conte
         <tr>
             <td>November 04</td>
             <td>Thursday</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Lecture</td>
+            <td>Lecture</td>
+            <td>Lecture</td>
             <td> </td>
             <td> </td>
-            <td>Group 6 summary due</td>
+            <td style="background-color: #f88379">Group 6 summary due @17:00</td>
         </tr>
         <tr>
             <td>November 05</td>
             <td>Friday</td>
-            <td></td>
+            <td style="background-color: #f88379">Quiz</td>
             <td></td>
             <td></td>
             <td> </td>
             <td> </td>
-            <td>Quiz</td>
+            <td></td>
         </tr>
     </tbody>
 </table>

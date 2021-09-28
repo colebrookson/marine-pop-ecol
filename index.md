@@ -30,6 +30,7 @@ This will involve some parts field work, some parts computational learning. Duri
 - Some very exciting field trips!
 - Paper readings and discussion
 - Computer labs
+- Talks by guest speakers
 
 See the syllabus page for a detailed lay out of how the course is broken down and when you can expect to be doing what. In the meantime, check out this site and get familiar with how it works!![image-left](https://colebrookson.github.io/marine-pop-ecol/assets/images/project-matrix.png)
 

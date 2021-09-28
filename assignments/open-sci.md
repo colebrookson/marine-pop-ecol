@@ -1,5 +1,5 @@
 ---
-permalink: /assignments/open-science/
+permalink: /assignments/open-sci/
 layout: single
 title: Open Science Practices Assignment Overview
 author_profile: false
