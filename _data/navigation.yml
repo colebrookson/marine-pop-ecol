@@ -29,6 +29,8 @@ Course Materials:
         url: /assignments/guest-quiz/
       - title: "Paper Discussions"
         url: /assignments/paper-discussions/
+      - title: "Open Science Practices"
+        url: /assignments/open-sci/
   - title: Readings
     children: 
       - title: "1 - TBD"

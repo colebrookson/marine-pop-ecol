@@ -56,9 +56,11 @@ As your first assignment of the course, you will perform a completion-based assi
 
 ### 2 - Population Model Code & Repository - 4pts
 
-For this assignment, separate from the actual population model assignment, you will be marked on whether or not. 
+For this assignment, separate from the actual population model assignment, you will be marked on whether or not you followed the [repository structure guidelines]() (2pts) and the [code structure guidelines]() (2pts). 
 
 ### 3 - Field Sampling Project Code & Repository - 4pts
+
+For this assignment, identical to the above, separate from the actual field sampling assignment, you will be marked on whether or not you followed the [repository structure guidelines]() (2pts) and the [code structure guidelines]() (2pts). 
 
 
 1: Curious what markdown is? Read more: [https://en.wikipedia.org/wiki/Markdown](https://en.wikipedia.org/wiki/Markdown), [https://jaantollander.com/post/scientific-writing-with-markdown/](https://jaantollander.com/post/scientific-writing-with-markdown/)
