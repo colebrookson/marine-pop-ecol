@@ -17,7 +17,7 @@ sidebar:
 
 If you are a student and have an administrative question, before you email us, please take the time to check the syllabus and other pages to see if your question has already been answered there.
 
-If you're looking for lecture recordings, they will not be posted until after Nov. 14th 2021. 
+If you're looking for lecture recordings, they will not be posted until after each lecture has happened, and all lecture content will not be completely available until after Nov. 14th 2021. 
 
 If you can't find the answer to your question/need help with other topics, please feel free to email us! 
 
