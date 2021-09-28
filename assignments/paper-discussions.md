@@ -1,7 +1,7 @@
 ---
 permalink: /assignments/paper-discussions/
 layout: single
-title: Student-led Paper Discussions
+title: Student-led Paper Discussions Overview
 author_profile: false
 excerpt: "Each student will, as a member of a group, be responsible for a deep reading and leading the discussion of one paper at some point in the course"
 header:

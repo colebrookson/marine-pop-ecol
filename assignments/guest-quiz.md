@@ -1,7 +1,7 @@
 ---
 permalink: /assignments/guest-quiz/
 layout: single
-title: Guest Speakers Questions & Quiz
+title: Guest Speakers Questions & Quiz Overview
 author_profile: false
 excerpt: "Throughout the course, a series of guest speakers will join the class to give talks on their research, their jobs, and how they think about science"
 header:
