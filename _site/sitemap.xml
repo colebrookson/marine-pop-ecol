@@ -31,7 +31,10 @@
 <loc>http://localhost:4000/lectures/landing-draft/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/assignments/paper-disscussions/</loc>
+<loc>http://localhost:4000/assignments/open-science/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/assignments/paper-discussions/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/assignments/pop-model/</loc>

@@ -1,5 +1,5 @@
 ---
-permalink: /assignments/paper-disscussions/
+permalink: /assignments/paper-discussions/
 layout: single
 title: Student-led Paper Discussions
 author_profile: false
