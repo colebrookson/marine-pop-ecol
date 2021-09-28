@@ -260,7 +260,7 @@ Find here the course schedule for this whirlwind four weeks of content. As conte
         <tr>
             <td>November 03</td>
             <td>Wednesday</td>
-            <td colspan="3" style="background-color: #83eeff">Field Trip - Sugsaw Creek Salmon Walk & Hatchery Visit</td>
+            <td colspan="3" style="background-color: #83eeff">Field Trip - Nitnat Hatchery/River Trip DFO Production Hatchery</td>
             <td> </td>
             <td> </td>
             <td></td>

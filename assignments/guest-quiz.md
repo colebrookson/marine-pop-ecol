@@ -32,7 +32,7 @@ Each speacker has also been asked to impart two *vital* pieces of information to
 5. **How can you use the information they presented during this course?**
 6. **How can you use the information presented outside of this corse?**
 
-### At the end of the term you will write a reflection on (15 points total):
+### At the end of the term you will write a reflection on (15 points):
 - What you learned from the entire speaker series (5 points)
 - Three vital pieces of information were given to you to suceed as ecologists (6 points)
 - How some (if any) information from the lectures you were able to use during the course (4 points)

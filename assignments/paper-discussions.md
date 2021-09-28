@@ -52,13 +52,13 @@ You are responsible for guiding your classmates through a primary research artic
 
     (1) The questions posed by the instructors
 
-    (2) How/did the question posed change how the class viewed the paper?
+    (2) How/did the question posed change how the class viewed the paper
 
-    (3) What connections can be made between the questions and the concrete components of the paper (i.e. the authors' hypotheses, methods, discussion points etc)
+    (3) What connections can be made between the questions and the concrete components of the paper (i.e. the authors' hypotheses, methods, discussion points etc)?
 
-    (4) How your process of thinking about epistomology has changed, and if applicable, how your approach to interpreting scientific literature could improve. 
+    (4) How your process of thinking about epistomology has changed, and if applicable, how your approach to interpreting scientific literature could improve
 
-    (5) What you think this paper contributes to your overall understanding of how science happens and how it is subsequently disseminated 
+    (5) What you think this paper contributes to your overall understanding of how science happens and how it is subsequently disseminated?
 
 *(See the course schedule for your group’s due date)*
 

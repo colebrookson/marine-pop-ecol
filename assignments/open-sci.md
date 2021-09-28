@@ -40,7 +40,7 @@ In this course, we will also be using [version control](https://git-scm.com/book
 
 **Note: the [Resources](/resources/) page has extensive links and videos that help explain Git/GitHub and help you get going with both.**
 
-## Assignment Guidelines
+## Assignment Guidelines (10 points)
 
 Throughout the course, we will use other assignments as a way to get experience with the fundamental open science practices including:
 
@@ -50,17 +50,17 @@ Throughout the course, we will use other assignments as a way to get experience 
 
 While all assignments will be submitted via a GitHub repository, you will receive a formal grade on 3 components:
 
-### 1 - GitHub Classroom Assignment - 2pts
+### 1 - GitHub Classroom Assignment (2 points)
 
 As your first assignment of the course, you will perform a completion-based assignment to ensure you can `fork` a repository from GitHub Classroom, make changes to the repo, and `push` it back. More details are provided in the assignment itself.
 
-### 2 - Population Model Code & Repository - 4pts
+### 2 - Population Model Code & Repository (4 points)
 
-For this assignment, separate from the actual population model assignment, you will be marked on whether or not you followed the [repository structure guidelines]() (2pts) and the [code structure guidelines]() (2pts). 
+For this assignment, separate from the actual population model assignment, you will be marked on whether or not you followed the [repository structure guidelines]() (2 points) and the [code structure guidelines]() (2 points). 
 
-### 3 - Field Sampling Project Code & Repository - 4pts
+### 3 - Field Sampling Project Code & Repository (4 points)
 
-For this assignment, identical to the above, separate from the actual field sampling assignment, you will be marked on whether or not you followed the [repository structure guidelines]() (2pts) and the [code structure guidelines]() (2pts). 
+For this assignment, identical to the above, separate from the actual field sampling assignment, you will be marked on whether or not you followed the [repository structure guidelines]() (2 points) and the [code structure guidelines]() (2 points). 
 
 
 1: Curious what markdown is? Read more: [https://en.wikipedia.org/wiki/Markdown](https://en.wikipedia.org/wiki/Markdown), [https://jaantollander.com/post/scientific-writing-with-markdown/](https://jaantollander.com/post/scientific-writing-with-markdown/)
