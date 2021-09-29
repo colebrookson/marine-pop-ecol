@@ -31,7 +31,7 @@ This project involves group work (~4 students per group) in the field and to wri
 1. Field data collection (on Oct 25th) 
 2. Data management (entry, quality assurance, and meta-data creation; by Oct 26th)
 3. Data analysis & graphing
-4. Elevator pitch presentations (Nov 1st)
+4. Speed talk presentations (Nov 1st)
 
 Each phase is described in more detail below. 
 

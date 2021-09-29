@@ -227,3 +227,11 @@ UofC: https://www.ucalgary.ca/pubs/calendar/current/k-3.html
 Huu-ay-aht First Nations website: https://huuayaht.org/ 
 
 More information on Kiixin : https://kiixin.ca/
+
+
+### Notes
+
+This version of this course was modified from the 2019/20 version taught by Dr. Stephanie Green. The material borrows heavily from hers. 
+
+
+
