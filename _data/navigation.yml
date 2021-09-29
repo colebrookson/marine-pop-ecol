@@ -32,19 +32,20 @@ Course Materials:
       - title: "Open Science Practices"
         url: /assignments/open-sci/
   - title: Readings
+    url: /readings/
     children: 
       - title: "1 - TBD"
         url: /readings/reading-1/
       - title: "2 - Bernhardt & O'Connor 2021"
-        url: /readings/bernhardt-oconnor-combined.pdf/
+        url: /readings/#Reading 2
       - title: "3 - Crouse et al. 1987"
-        url: /readings/crouse-etal.pdf/
+        url: /readings/crouse-etal/
       - title: "4 - TBD"
         url: /readings/reading-2/
       - title: "5 - TBD"
         url: /readings/reading-2/
       - title: "6 - Beltran et al. 2020"
-        url: /readings/beltran-etal.pdf/
+        url: /readings/beltran-etal/
   - title: Guest Speakers
     url: /guest-speakers/
     children:
