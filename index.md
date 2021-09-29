@@ -54,10 +54,10 @@ Two reasons:
   any way that diminishes another's capacity or eagerness to learn
 
 2. Using this Website
-  - This material is free and open to anyone enrolled in this workshop series or not. 
+  - This material is free and open to anyone enrolled in this course or not. 
   - As this is the first time we are running this class in this format, there are likely mistakes or broken links on this website. If you notice some such error, please let us know! Use the [Contact](/contact/) tab and drop us a line if you find any errors or if you have any suggestions for website navigation etc.
 
 
-Did we miss anything? If you have further questions about the content of each session, please check out the syllabus and each individual week for more information. Still can't find the answer? Drop us a [line](/contact/) and we can help you out!
+Did we miss anything? If you have further questions about the content of each session, please check out the syllabus and each individual page for more information. Still can't find the answer? Drop us a [line](/contact/) and we can help you out!
 
-In addition, we are committed to making this class accessible to anyone who wants to participate. If there is some barrier to you participating that we can help alleviate, please please please get in touch with us and we will do everything we can to make sure you can join.
+In addition, we are committed to making this class accessible to anyone who wants to participate. If there is some barrier to you participating that we can help alleviate, please please PLEASE get in touch with us and we will do everything we can to make sure you can join.
