@@ -17,7 +17,7 @@ sidebar:
 
 **Coming soon :) In the meantime, please enjoy this photo of Alex's cat**
 
-<img align="centre" src="/assets/images/whites.jpeg" style="padding: 15px" alt="drawing" width = "1000"/>
+<img align="centre" src="/assets/images/whites.jpg" style="padding: 15px" alt="drawing" width = "1000"/>
 
 
 
