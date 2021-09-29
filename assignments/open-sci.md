@@ -52,15 +52,26 @@ While all assignments will be submitted via a GitHub repository, you will receiv
 
 ### 1 - GitHub Classroom Assignment (2 points)
 
-As your first assignment of the course, you will perform a completion-based assignment to ensure you can `fork` a repository from GitHub Classroom, make changes to the repo, and `push` it back. More details are provided in the assignment itself.
+As your first assignment of the course, you will perform a completion-based assignment to ensure you can `fork` a repository from GitHub Classroom, make changes to the repo, and `push` it back. More details are provided in the assignment itself. 
+
+This is a completion-based assignment. If you complete the required task, you will be awarded 2 points, if any part is missing or incorrect, you will receive zero points. 
 
 ### 2 - Population Model Code & Repository (4 points)
 
-For this assignment, separate from the actual population model assignment, you will be marked on whether or not you followed the [repository structure guidelines]() (2 points) and the [code structure guidelines]() (2 points). 
+For this assignment, separate from the actual population model assignment, you will be marked on how reproducible and clean your repository and the files it contains are. The breakdown is as follows:
 
-### 3 - Field Sampling Project Code & Repository (4 points)
+1. Is your code functional and free of errors? (2 points)
+  - This means, the instructor will clone the repository and attempt to run it - the whole repository should load and run free of errors
+2. Is the code and file structure consistent and following best practices, and are essential repository components present? (2 points)
 
-For this assignment, identical to the above, separate from the actual field sampling assignment, you will be marked on whether or not you followed the [repository structure guidelines]() (2 points) and the [code structure guidelines]() (2 points). 
+### 3 - Biodiversity Field Sampling Project Code & Repository (4 points)
+
+For this assignment, identical to above, you will be marked separately from the actual biodiversity sampling assignment, you will be marked on how reproducible and clean your repository and the files it contains are. The breakdown is as follows:
+
+1. Is your code functional and free of errors? (2 points)
+  - This means, the instructor will clone the repository and attempt to run it - the whole repository should load and run free of errors
+2. Is the code and file structure consistent and following best practices, and are essential repository components present? (2 points)
 
 
 1: Curious what markdown is? Read more: [https://en.wikipedia.org/wiki/Markdown](https://en.wikipedia.org/wiki/Markdown), [https://jaantollander.com/post/scientific-writing-with-markdown/](https://jaantollander.com/post/scientific-writing-with-markdown/)
+

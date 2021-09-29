@@ -117,7 +117,7 @@ challenge beyond that expected in any of BMSC’s field courses. However, activi
     <tbody>
         <tr>
             <td><a href="/assignments/species-id/">Species ID</a></td>
-            <td>Monday 18 October 2021 @ 18:00</td>
+            <td>Monday 18 October 2021 @ 17:00</td>
             <td>15</td>
         </tr>
         <tr>
@@ -136,8 +136,8 @@ challenge beyond that expected in any of BMSC’s field courses. However, activi
             <td>15 (5)</td>
         </tr>
         <tr>
-            <td><a href="/assignments/guest-quiz/">Guest Speaker Writeup</a></td>
-            <td>Friday 05 November 2021 @ 10:00</td>
+            <td><a href="/assignments/guest-quiz/">Guest Speaker Quiz</a></td>
+            <td>Friday 05 November 2021 @ 08:30</td>
             <td>15</td>
         </tr>
         <tr>
@@ -210,23 +210,25 @@ challenge beyond that expected in any of BMSC’s field courses. However, activi
 Academic integrity requires commitment to the values of honesty, trust, fairness, respect, and responsibility. It is expected that students, faculty members and staff at BMSC, as members of an intellectual community, will adhere to these ethical values in all activities related to learning, teaching, research and service. Any action that contravenes this standard, including misrepresentation, falsification or deception, undermines the intention and worth of scholarly work and violates the fundamental academic rights of members of our community. This policy is designed to ensure that the university’s standards are upheld in a fair and transparent fashion. Students are responsible for the entire content and form of their work. Nothing in this policy is
 intended to prohibit students from developing their academic skills through the exchange of ideas and the utilization of resources available to support learning. Students who are in doubt as to what constitutes a violation of academic integrity in a particular instance should consult their course instructor or refer to individual school policies for more details.
 
-UVic: www.uvic.ca/library/research/citation/plagiarism/index.php 
+#### Member Schools' Academic Integrity Pages: 
 
-UofA: https://www.ualberta.ca/current-students/academic-resources/academicintegrity/plagiarism.html
+[University of Victoria]([www.uvic.ca/library/research/citation/plagiarism/index.php](https://www.uvic.ca/library/help/citation/plagiarism/))
 
-UBC: http://learningcommons.ubc.ca/resource-guides/avoiding-plagiarism/ 
+[University of Alberta](https://www.ualberta.ca/current-students/academic-resources/academic-integrity/index.html)
 
-SFU: http://www.sfu.ca/policies/gazette/student/s10-01.html 
+[University of British Columbia](http://www.calendar.ubc.ca/Vancouver/index.cfm?tree=3,54,111,959) 
 
-UofC: https://www.ucalgary.ca/pubs/calendar/current/k-3.html 
+[Simon Fraser University](https://www.lib.sfu.ca/help/academic-integrity/plagiarism) 
+
+[University of Calgary](https://conted.ucalgary.ca/info/integrity.jsp) 
 
 ### Land Acknowledgement 
 
- BMSC is situated on the traditional territory of the Huu-ay-aht First  Nations, a Nuu-chah-nulth Nation and signatory to the Maa-nulth First Nations Final Agreement. We encourage you to learn about and from the Huu-ay-aht throughout your time at BMSC. 
+BMSC is situated on the traditional territory of the Huu-ay-aht First  Nations, a Nuu-chah-nulth Nation and signatory to the Maa-nulth First Nations Final Agreement. We encourage you to learn about and from the Huu-ay-aht throughout your time at BMSC. 
 
-Huu-ay-aht First Nations website: https://huuayaht.org/ 
+Huu-ay-aht First Nations website: [https://huuayaht.org/](https://huuayaht.org/) 
 
-More information on Kiixin : https://kiixin.ca/
+More information on Kiixin: [https://kiixin.ca/](https://kiixin.ca/)
 
 
 ### Notes

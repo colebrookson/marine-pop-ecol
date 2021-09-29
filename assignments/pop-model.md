@@ -159,8 +159,8 @@ An excellent assignment will:
 - Be carefully researched - It will include appropriate references to available literature, which are not just cited but *interpreted*.
 - Be written clearly and concisely – each paragraph will have a topic sentence that summarizes the main point of the paragraph, followed by sentences that present and analyze the evidence supporting each main point. The tone will be appropriate for a formal scientific report. 
 
-# Submission Details
+## Submission Details
 
-For this assignment, you will use GitHub classroom to track changes to your code and your writing, and submit the assingment. Open this link to accept the assignment and create a private repository for your code & submission for this assignment in GitHub classroom. 
+Use the GitHub classroom link here: [https://classroom.github.com/a/rZDwW2zV](https://classroom.github.com/a/rZDwW2zV) to accept the assignment and view submission instructions. 
 
-Your repository will be named `REPONAME-yourusername` where "yourusername" is your GitHub username. It it absolutely **key** to commit and push regularly so your code is always backed up. We will grade your most recent commit. 
+

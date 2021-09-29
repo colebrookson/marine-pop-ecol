@@ -71,3 +71,7 @@ Finally, you will give a 7-10 min presentation to aid your classmates in learnin
 * Give a summary of what you learned about how to tell your species apart in the field and their ecology.
 * Have speaking contributions from all group members
 * Effectively use images and diagrams and use text only to highly key points and label features.
+
+## Submission Details
+
+Use the GitHub classroom link here: [https://classroom.github.com/a/rZDwW2zV](https://classroom.github.com/a/rZDwW2zV) to accept the assignment and view submission instructions. 

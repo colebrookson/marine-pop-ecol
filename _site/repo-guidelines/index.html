@@ -1,0 +1,605 @@
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Repository and Code Style Guidelines - Marine Population Ecology &amp; Dynamics</title>
+<meta name="description" content="Consistent practice of how you write code and structre repositories is essential for creating easily reproducible analyses.">
+
+
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Marine Population Ecology & Dynamics">
+<meta property="og:title" content="Repository and Code Style Guidelines">
+<meta property="og:url" content="http://localhost:4000/repo-guidelines/">
+
+
+  <meta property="og:description" content="Consistent practice of how you write code and structre repositories is essential for creating easily reproducible analyses.">
+
+
+
+  <meta property="og:image" content="http://localhost:4000/assets/images/bamfield-3.jpg">
+
+
+
+
+
+
+
+
+
+
+<link rel="canonical" href="http://localhost:4000/repo-guidelines/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": null,
+      "url": "http://localhost:4000/"
+    
+  }
+</script>
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Marine Population Ecology & Dynamics Feed">
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
+
+<!--[if IE]>
+  <style>
+    /* old IE unsupported flexbox fixes */
+    .greedy-nav .site-title {
+      padding-right: 3em;
+    }
+    .greedy-nav button {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+    }
+  </style>
+<![endif]-->
+
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single wide">
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+        <a class="site-title" href="/">
+          Marine Population Ecology & Dynamics
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/course-syllabus/">Syllabus</a>
+            </li><li class="masthead__menu-item">
+              <a href="/instructors/">Instructors</a>
+            </li><li class="masthead__menu-item">
+              <a href="/bamfield/">About Bamfield</a>
+            </li><li class="masthead__menu-item">
+              <a href="/resources/">Resources</a>
+            </li><li class="masthead__menu-item">
+              <a href="/contact/">Contact</a>
+            </li></ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <svg class="icon" width="16" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.99 16">
+            <path d="M15.5,13.12L13.19,10.8a1.69,1.69,0,0,0-1.28-.55l-0.06-.06A6.5,6.5,0,0,0,5.77,0,6.5,6.5,0,0,0,2.46,11.59a6.47,6.47,0,0,0,7.74.26l0.05,0.05a1.65,1.65,0,0,0,.5,1.24l2.38,2.38A1.68,1.68,0,0,0,15.5,13.12ZM6.4,2A4.41,4.41,0,1,1,2,6.4,4.43,4.43,0,0,1,6.4,2Z" transform="translate(-.01)"></path>
+          </svg>
+        </button>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    
+  
+
+
+
+
+
+
+
+<div class="page__hero--overlay"
+  style=" background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/assets/images/bamfield-3.jpg');"
+>
+  
+    <div class="wrapper">
+      <h1 id="page-title" class="page__title" itemprop="headline">
+        
+          Repository and Code Style Guidelines
+
+        
+      </h1>
+      
+        <p class="page__lead">Consistent practice of how you write code and structre repositories is essential for creating easily reproducible analyses.
+</p>
+      
+      
+
+
+      
+      
+        <p>
+        
+          <a href="https://colebrookson.github.io/marine-pop-ecol/_pages/guest-speakers.pdf" class="btn btn--light-outline btn--large">Download</a>
+        
+      
+    </div>
+  
+  
+    <span class="page__hero-caption">
+</span>
+  
+</div>
+
+
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+  
+    
+      
+      
+      
+      
+    
+    
+      
+
+<nav class="nav__list">
+  
+  <input id="ac-toc" name="accordion-toc" type="checkbox" />
+  <label for="ac-toc">Toggle Menu</label>
+  <ul class="nav__items">
+    
+      <li>
+        
+          <span class="nav__sub-title">Lecture Material</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="/lectures/schedule/">Lecture Schedule</a></li>
+          
+            <li><a href="/lectures/landing/">Slides & Materials</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Assignments</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="/assignments/species-id/">Species ID Guide</a></li>
+          
+            <li><a href="/assignments/pop-model/">Population Model</a></li>
+          
+            <li><a href="/assignments/biodiv-sample/">Field Sampling</a></li>
+          
+            <li><a href="/assignments/guest-quiz/">Guest Speaker Quiz</a></li>
+          
+            <li><a href="/assignments/paper-discussions/">Paper Discussions</a></li>
+          
+            <li><a href="/assignments/open-sci/">Open Science Practices</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Readings</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="/readings/reading-1/">1 - TBD</a></li>
+          
+            <li><a href="/readings/bernhardt-oconnor-combined.pdf/">2 - Bernhardt & O'Connor 2021</a></li>
+          
+            <li><a href="/readings/crouse-etal.pdf/">3 - Crouse et al. 1987</a></li>
+          
+            <li><a href="/readings/reading-2/">4 - TBD</a></li>
+          
+            <li><a href="/readings/reading-2/">5 - TBD</a></li>
+          
+            <li><a href="/readings/beltran-etal.pdf/">6 - Beltran et al. 2020</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/guest-speakers/"><span class="nav__sub-title">Guest Speakers</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/guest-speakers/">Dr. Shannon M. Hennessey</a></li>
+          
+            <li><a href="/guest-speakers/">Emma Atkinson</a></li>
+          
+            <li><a href="/guest-speakers/">TBD</a></li>
+          
+            <li><a href="/guest-speakers/">Dr. Karlisa Calwood</a></li>
+          
+        </ul>
+        
+      </li>
+    
+  </ul>
+</nav>
+
+    
+  
+  </div>
+
+
+
+  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Repository and Code Style Guidelines">
+    <meta itemprop="description" content="Consistent practice of how you write code and structre repositories is essential for creating easily reproducible analyses.">
+    
+    
+
+    <div class="page__inner-wrap">
+      
+
+      <section class="page__content" itemprop="text">
+        <h1 id="repository-structure">Repository Structure</h1>
+
+<p>In every repository, keeping things consistent will be essential.</p>
+
+<h1 id="style-guide">Style Guide</h1>
+
+<p>When writing code and managing files, it’s always best to use consistent style. The best way to do so is to follow a style guide as closely as possible.</p>
+
+<p>This style guide is based largely off the <a href="https://style.tidyverse.org/">Tidyverse Style Guide</a>, and much of the style guidelines here are copied and pasted directly. This assumes you are using the <a href="https://www.r-project.org/">R</a> language and likely the <a href="https://www.rstudio.com/">RStudio</a> IDE. It is recommended that you read through and follow the <a href="https://style.tidyverse.org/">Tidyverse Style Guide</a> but <strong>there are five key components of the style guide, <em>Files, Syntax, Functions, Pipes, <code class="language-plaintext highlighter-rouge">ggplot2</code></em></strong>, and key components of each are highlighted here:</p>
+
+<h3 id="files"><strong>Files</strong></h3>
+<ul>
+  <li>Organization
+    <ul>
+      <li>File names should be meaningful and end in .R or .RMD. Avoid using special characters in file names - stick with numbers, letters, -, and _.</li>
+      <li>If files should be run in a particular order, prefix them with numbers. If it seems likely you’ll have more than 10 files, left pad with zero:
+        <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>00_download.R
+01_explore.R
+...
+09_model.R
+10_visualize.R
+</code></pre></div>        </div>
+      </li>
+      <li>Pay attention to capitalization, since you, or some of your collaborators, might be using an operating system with a case-insensitive file system (e.g., Microsoft Windows or OS X) which can lead to problems with (case-sensitive) revision control systems. Prefer file names that are all lower case, and never have names that differ only in their capitalization.</li>
+    </ul>
+  </li>
+  <li>Internal Structure</li>
+  <li>Use commented lines of - and = to break up your file into easily readable chunks.
+   ```
+   # Load data ===========================</li>
+</ul>
+
+<p># Plot data ===========================</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>   * If your script uses add-on packages, load them all at once at the very beginning of the file. This is more transparent than sprinkling `library()` calls throughout your code or having hidden dependencies that are loaded in a startup file, such as .Rprofile.
+
+### **Syntax**
+  * Object Names
+    * Variable and function names should use only lowercase letters, numbers, and _. Use underscores (_) (so called snake case) to separate words within a name.
+    * Base R uses dots in function names (`contrib.url()`) and class names (`data.frame`), but it’s better to reserve dots exclusively for the S3 object system. In S3, methods are given the name `function.class`; if you also use . in function and class names, you end up with confusing methods like `as.data.frame.data.frame()`
+    * Where possible, avoid re-using names of common functions and variables. This will cause confusion for the readers of your code.
+  * Long Lines
+    * Strive to limit your code to 80 characters per line. This fits comfortably on a printed page with a reasonably sized font. If you find yourself running out of room, this is a good indication that you should encapsulate some of the work in a separate function.
+    * If a function call is too long to fit on a single line, use one line each for the function name, each argument, and the closing ). This makes the code easier to read and to change later.
+</code></pre></div></div>
+<p># Good
+   do_something_very_complicated(
+    something = “that”,
+    requires = many,
+    arguments = “some of which may be long”
+   )</p>
+
+<p># Bad
+   do_something_very_complicated(“that”, requires, many, arguments,
+                                “some of which may be long”
+                                )
+  ```</p>
+<ul>
+  <li>Comments
+    <ul>
+      <li>Each line of a comment should begin with the comment symbol and a single space: #</li>
+      <li>In data analysis code, use comments to record important findings and analysis decisions. If you need comments to explain what your code is doing, consider rewriting your code to be clearer.</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="functions"><strong>Functions</strong></h3>
+<ul>
+  <li>Naming
+    <ul>
+      <li>As well as following the general advice for object names, strive to use verbs for function names:
+```
+        <h1 id="good">Good</h1>
+        <p>add_row()
+permute()</p>
+      </li>
+    </ul>
+
+    <h1 id="bad">Bad</h1>
+    <p>row_adder()
+permutation()
+```</p>
+  </li>
+  <li>Long lines
+    <ul>
+      <li>If a function definition runs over multiple lines, indent the second line to where the definition starts.
+```
+        <h1 id="good-1">Good</h1>
+        <p>long_function_name &lt;- function(a = “a long argument”,
+                             b = “another argument”,
+                             c = “another long argument”) {</p>
+        <h1 id="as-usual-code-is-indented-by-two-spaces">As usual code is indented by two spaces.</h1>
+        <p>}</p>
+      </li>
+    </ul>
+
+    <h1 id="bad-1">Bad</h1>
+    <p>long_function_name &lt;- function(a = “a long argument”,
+  b = “another argument”,
+  c = “another long argument”) {
+  # Here it’s hard to spot where the definition ends and the
+  # code begins
+}
+```</p>
+  </li>
+  <li>Comments
+    <ul>
+      <li>In code, use comments to explain the “why” not the “what” or “how”. Each line of a comment should begin with the comment symbol and a single space: #.
+```
+        <h1 id="good-2">Good</h1>
+      </li>
+    </ul>
+
+    <h1 id="objects-like-data-frames-are-treated-as-leaves">Objects like data frames are treated as leaves</h1>
+    <p>x &lt;- map_if(x, is_bare_list, recurse)</p>
+
+    <h1 id="bad-2">Bad</h1>
+
+    <h1 id="recurse-only-with-bare-lists">Recurse only with bare lists</h1>
+    <p>x &lt;- map_if(x, is_bare_list, recurse)
+```</p>
+    <h3 id="pipes"><strong>Pipes</strong></h3>
+  </li>
+  <li>Long Lines
+    <ul>
+      <li>If the arguments to a function don’t all fit on one line, put each argument on its own line and indent:
+        <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>iris %&gt;%
+ group_by(Species) %&gt;%
+ summarise(
+Sepal.Length = mean(Sepal.Length),
+Sepal.Width = mean(Sepal.Width),
+Species = n_distinct(Species)
+ )
+</code></pre></div>        </div>
+        <h3 id="ggplot2"><strong><code class="language-plaintext highlighter-rouge">ggplot2</code></strong></h3>
+      </li>
+    </ul>
+  </li>
+  <li>Whitespace
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">+</code> should always have a space before it, and should be followed by a new line. This is true even if your plot has only two layers. After the first step, each line should be indented by two spaces</li>
+    </ul>
+  </li>
+  <li>Long lines
+    <ul>
+      <li>If the arguments to a ggplot2 layer don’t all fit on one line, put each argument on its own line and indent:
+```
+        <h1 id="good-3">Good</h1>
+        <p>ggplot(aes(x = Sepal.Width, y = Sepal.Length, color = Species)) +
+geom_point() +
+labs(
+  x = “Sepal width, in cm”,
+  y = “Sepal length, in cm”,
+  title = “Sepal length vs. width of irises”
+)</p>
+      </li>
+    </ul>
+
+    <h1 id="bad-3">Bad</h1>
+    <p>ggplot(aes(x = Sepal.Width, y = Sepal.Length, color = Species)) +
+  geom_point() +
+  labs(x = “Sepal width, in cm”, y = “Sepal length, in cm”, title = “Sepal length vs. width of irises”)</p>
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>* ggplot2 allows you to do data manipulation, such as filtering or slicing, within the data argument. Avoid this, and instead do the data manipulation in a pipeline before starting plotting.
+</code></pre></div>    </div>
+    <h1 id="good-4">Good</h1>
+    <p>iris %&gt;%
+  filter(Species == “setosa”) %&gt;%
+  ggplot(aes(x = Sepal.Width, y = Sepal.Length)) +
+  geom_point()</p>
+
+    <h1 id="bad-4">Bad</h1>
+    <p>ggplot(filter(iris, Species == “setosa”), aes(x = Sepal.Width, y = Sepal.Length)) +
+  geom_point()
+```</p>
+  </li>
+</ul>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+        
+      </footer>
+
+      
+
+      
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+
+
+    <div class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+
+    
+
+    <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2021 Marine Population Ecology & Dynamics. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+
+
+<!-- Including InstantSearch.js library and styling -->
+<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.3.3/dist/instantsearch.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.3.3/dist/instantsearch.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.3.3/dist/instantsearch-theme-algolia.min.css">
+
+<script>
+// Instanciating InstantSearch.js with Algolia credentials
+const search = instantsearch({
+  appId: 'KK9WVVDQ6B',
+  apiKey: '1ba5a7d6c332cbba147b91b1b70a754f',
+  indexName: 'marine-pop-ecol',
+  searchParameters: {
+    restrictSearchableAttributes: [
+      'title',
+      'content'
+    ]
+  }
+});
+
+const hitTemplate = function(hit) {
+  const url = hit.url;
+  const title = hit._highlightResult.title.value;
+  const content = hit._highlightResult.html.value;
+
+  return `
+    <div class="list__item">
+      <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+        <h2 class="archive__item-title" itemprop="headline"><a href="${url}">${title}</a></h2>
+        <div class="archive__item-excerpt" itemprop="description">${content}</div>
+      </article>
+    </div>
+  `;
+}
+
+// Adding searchbar and results widgets
+search.addWidget(
+  instantsearch.widgets.searchBox({
+    container: '.search-searchbar',
+    poweredBy: true,
+    placeholder: 'Enter your search term...'
+  })
+);
+search.addWidget(
+  instantsearch.widgets.hits({
+    container: '.search-hits',
+    templates: {
+      item: hitTemplate,
+      empty: 'No results',
+    }
+  })
+);
+
+// Starting the search only when toggle is clicked
+$(document).ready(function () {
+  $(".search__toggle").on("click", function() {
+    if(!search.started) {
+      search.start();
+    }
+  });
+});
+</script>
+
+
+
+
+
+
+
+
+  </body>
+</html>

@@ -36,3 +36,7 @@ Each speacker has also been asked to impart two *vital* pieces of information to
 - What you learned from the entire speaker series (5 points)
 - Three vital pieces of information were given to you to suceed as ecologists (6 points)
 - What information from the lectures you were able to use during the course (4 points)
+
+## Submission Details
+
+Use the GitHub classroom link here: [https://classroom.github.com/a/BkVpDbPC](https://classroom.github.com/a/BkVpDbPC) to accept the assignment and view submission instructions. 

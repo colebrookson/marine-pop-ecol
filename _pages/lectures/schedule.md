@@ -278,7 +278,7 @@ Find here the course schedule for this whirlwind four weeks of content. As conte
         <tr>
             <td>November 05</td>
             <td>Friday</td>
-            <td style="background-color: #f88379">Quiz</td>
+            <td style="background-color: #f88379">Guest Speaker Write-up (In Class)</td>
             <td></td>
             <td></td>
             <td> </td>

@@ -1,11 +1,18 @@
 ---
 permalink: /resources/
 layout: single
-title: Resources
+title: Course Resources
+excerpt: Refer to this page for links and short descriptions, videos, and references, to content and material that will help you as you navigate this course. 
 author_profile: false
 classes: wide
 sidebar:
-  nav: "sessions"
+  nav: "Course Materials"
+sidebar:
+  nav: "Course Materials"
+header:
+  overlay_filter: 0.5
+  overlay_image: /assets/images/ides.jpg
+  caption: "Photo credit: Stack Overflow"
 ---
 
 This section of the website will be continually updated with different links/descriptions/videos describing how to perform some of the essential skills you'll need for this course. Hopefully it will also act as a resource to you after this course is over. 
@@ -22,15 +29,17 @@ For our purposes, there are a few things you'll need:
     **Please note: we will be using git from the command line. All demos/tutorials will be done from the command line. That means that if you choose to use a GUI alternative (e.g. GitHub desktop), you are more than welcome to do so, but we cannot help you troubleshoot problems.**
 3. A working knowledge of a few simple git commands: `add`, `commit`, and `push`
 
+If you have been using GitHub for a while, you'll notice you now need to set up your repositories using an `ssh` connection, not an `https`. For instructions on how to set up a secure ssh key, see this [documentation on the topic](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/about-ssh). 
+
 ## RMarkdown
 
 You will submit all of your assignments for this course in RMarkdown files, an interface between the programming language R, and the simple and yet powerful markdown language. If you are not familiar, check out the [introduction on the RMarkdown website](https://rmarkdown.rstudio.com/lesson-1.html) and check out this video:
 
-<iframe width="100%" src="https://player.vimeo.com/video/178485416" width="100%" height="150" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+<iframe src="https://player.vimeo.com/video/178485416" width="1200" height="900" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 ## GitHub Classroom
 
-
+This course uses GitHub Classroom to collaborate on and submit assignments. Submission instructions are specific to each assignment, but all include cloning, editing, and then commiting changes to a repository that we give you as a 'shell' repository to base yours off of. More information will be provided in the Git/GitHub lab and then posted here.  
 
 ## RStudio & General Helpful Links:
 

@@ -62,3 +62,7 @@ You are responsible for guiding your classmates through a primary research artic
 
 *(See the course schedule for your group’s due date)*
 
+## Submission Details
+
+Use the GitHub classroom link here: [https://classroom.github.com/a/rZDwW2zV](https://classroom.github.com/a/rZDwW2zV) to accept the assignment and view submission instructions. 
+

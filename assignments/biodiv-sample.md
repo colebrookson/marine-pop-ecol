@@ -54,3 +54,8 @@ Your grade will be based on the following criteria:
 * Appropriate use of figures and tables as aides
 * Appropriate language for target audience
 * Clarity of results /your conclusions
+
+
+## Submission Details
+
+Use the GitHub classroom link here: [https://classroom.github.com/g/Og6uSyIi](https://classroom.github.com/g/Og6uSyIi) to accept the assignment and view submission instructions. 
