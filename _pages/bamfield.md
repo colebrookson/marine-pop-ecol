@@ -1,7 +1,7 @@
 ---
 permalink: /bamfield/
 layout: single
-title: Bamfield Marine Science Centre
+title: Bamfield Marine Sciences Centre
 author_profile: false
 classes: wide
 excerpt: "BMSC has been supporting ocean access to coastal and marine environments
