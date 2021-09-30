@@ -35,17 +35,17 @@ Course Materials:
     url: /readings/
     children: 
       - title: "1 - TBD"
-        url: /readings/reading-1/
+        url: /readings/
       - title: "2 - Bernhardt & O'Connor 2021"
-        url: /readings/#Reading 2
+        url: /readings/
       - title: "3 - Crouse et al. 1987"
-        url: /readings/crouse-etal/
+        url: /readings/
       - title: "4 - TBD"
-        url: /readings/reading-2/
+        url: /readings/
       - title: "5 - TBD"
-        url: /readings/reading-2/
+        url: /readings/
       - title: "6 - Beltran et al. 2020"
-        url: /readings/beltran-etal/
+        url: /readings/
   - title: Guest Speakers
     url: /guest-speakers/
     children:
