@@ -32,8 +32,11 @@ Emma is a PhD student at the University of Alberta with Dr. Mark Lewis. Previous
 
 Her current research questions focuses on the population dynamics and fisheries management of marine invertebrates, specifically the British Columbian spot prawn fishery. When she's not coding in R, she likes to cycle, run, and spend time on the water.
 
+### Dr. Sean C. Godwin <img align="left" src="/assets/images/sean.jpg" style="padding: 15px" alt="drawing" width="300"/>
 
+Sean is an outdoor enthusiast masquerading as a conservation biologist and quantitative ecologist. He is currently a Liber Ero Fellow with Dr. Jeffrey Hutchings at Dalhousie University, where he is investigating the impacts of salmon farms on wild salmon populations. In 2018, he finished my PhD at Simon Fraser University under the supervision of Dr. John Reynolds, Dr. Larry Dill, and Dr. Martin Krkosek. 
 
+His primary research motivation is to inform evidence-based conservation and management, particularly in the marine environment. He is broadly interested in determining the impacts of global change on threatened species, understanding the effects of novel stressors on migrating wildlife, and improving the management of aquaculture and wild-capture fisheries. He often uses field experiments and/or statistical modelling approaches to address research questions. To date, much of his research has involved wild Pacific salmon, which have great importance to the ecology, economies, and Indigenous cultures of North America's west coast.
 
 ### Dr. Karlisa Calwood <img align="left" src="/assets/images/karlissa.jpeg" style="padding: 15px" alt="drawing" width="300"/>
 
