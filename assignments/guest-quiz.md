@@ -27,10 +27,10 @@ Each speacker has also been asked to impart two *vital* pieces of information to
 
 1. Name of Speaker
 2. Job/ position/ location
-3. Breif summary of what they do in their job/position/rsearch. This piece is for your own records. Be detailed if their career choice or lecture topic is of particular interest to you. 
+3. Brief summary of what they do in their job/position/research. This piece is for your own records. Be detailed if their career choice or lecture topic is of particular interest to you. 
 4. **What are the two vital pieces of information they presented?**
 5. **How can you use the information they presented during this course?**
-6. **How can you use the information presented outside of this corse?**
+6. **How can you use the information presented outside of this course?**
 
 ### At the end of the term you will write a reflection on (15 points):
 - What you learned from the entire speaker series (5 points)
