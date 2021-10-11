@@ -56,3 +56,11 @@ My favourite [blog](https://www.r-bloggers.com/2019/12/why-i-dont-use-the-tidyve
 For the sake of even-handedness, here is a [blog](https://www.r-bloggers.com/2018/09/why-learn-the-tidyverse/#:~:text=Why%20is%20Tidyverse%20so%20popular,build%20an%20ecosystem%20of%20applications.) that believes Tidyverse is the way to go. 
 
 As with everything in programming, there are many ways to do things. Arguing about which way is better is usually less helpful than picking the right tool for the specific job and executing it rigorously. 
+
+## Using iNaturalist
+
+In the course, for species ID we will be using the popular and user-friendly identification tool, [iNaturalist](https://www.inaturalist.org/pages/getting+started). This software works most usefully as an app on your phone that you download and use to photograph and identify organisms. 
+
+There is an excellent series of videos that iNaturalist put out helping new users get up to speed with their app and usage:
+
+<iframe src="https://player.vimeo.com/video/162581545?h=c4adb054f2" width="1200" height="900" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
