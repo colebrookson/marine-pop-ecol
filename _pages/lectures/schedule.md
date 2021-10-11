@@ -83,7 +83,7 @@ Find here the course schedule for this whirlwind four weeks of content. As conte
             <td>Niche concept, biodiversity patterns & precesses</td>
             <td>Lab - ID Assignment</td>
             <td> </td>
-            <td>Reading 1 - TBD</td>
+            <td>Reading 1 - Harley (2011)</td>
             <td style="background-color: #f88379">Sign up for paper discussion groups & dates due @23:59</td>
         </tr>
         <tr>
@@ -163,7 +163,7 @@ Find here the course schedule for this whirlwind four weeks of content. As conte
             <td style="background-color: #f88379">Paper Discussion - Group 3</td>
             <td>Lab</td>
             <td> </td>
-            <td> Reading 4 - TBD</td>
+            <td> Reading 4 - Godwin et al. (2021)</td>
             <td style="background-color: #f88379">Population Model Proposal due @17:00</td>
         </tr>
         <tr style="background-color:#d3d3d3">
@@ -194,7 +194,7 @@ Find here the course schedule for this whirlwind four weeks of content. As conte
             <td style="background-color: #f88379">Paper discussion - Group 4</td>
             <td>Lab</td>
             <td>ADA</td>
-            <td> Reading 5 - TBD</td>
+            <td> Reading 5 - Reid et al. (2021)</td>
             <td style="background-color: #f88379">Population assignment due @23:59</td>
         </tr>
         <tr>
