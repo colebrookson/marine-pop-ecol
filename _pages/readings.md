@@ -16,7 +16,9 @@ On this page you will find all the readings for the course. Some of the attachme
 
 ## Reading 1
 
-**TBD**
+**Harley, C. D.** (2011). Climate change, keystone predation, and biodiversity loss. Science, 334(6059), 1124-1127.
+
+<embed src="https://colebrookson.github.io/marine-pop-ecol/readings-files/harley.pdf" type="application/pdf" width=2000 height=2800/>
 
 ## Reading 2
 
@@ -32,9 +34,15 @@ On this page you will find all the readings for the course. Some of the attachme
 
 ## Reading 4
 
-TBD
+**Godwin, S. C., Krkošek, M., Reynolds, J. D., & Bateman, A. W.** (2021). Bias in self‐reported parasite data from the salmon farming industry. Ecological Applications, 31(1), e02226.
+
+<embed src="https://colebrookson.github.io/marine-pop-ecol/readings-files/godwin-etal.pdf" type="application/pdf" width=2000 height=2800/>
 
 ## Reading 5
+
+**Reid, A. J., Eckert, L. E., Lane, J. F., Young, N., Hinch, S. G., Darimont, C. T., ... & Marshall, A.** (2021). “Two‐Eyed Seeing”: An Indigenous framework to transform fisheries research and management. Fish and Fisheries, 22(2), 243-261.
+
+<embed src="https://colebrookson.github.io/marine-pop-ecol/readings-files/reid-etal.pdf" type="application/pdf" width=2000 height=2800/>
 
 ## Reading 6 
 
