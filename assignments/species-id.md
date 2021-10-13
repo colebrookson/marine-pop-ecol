@@ -38,13 +38,13 @@ The voucher collection will be graded on its accuracy, completeness, and overall
 
 This will be broken into before and after collecting sections. 
 
-*Before:* Start by assembling and reading all available written identification guides to teach yourself what features are diagnostic in differentiating your species from others. Then, use these guides to help you hone in on the most reliable characteristics. [https://www.centralcoastbiodiversity.org/marine-invertebrates.html]
+*Before:* Start by assembling and reading all available written identification guides to teach yourself what features are diagnostic in differentiating your species from others. Then, use these guides to help you hone in on the most reliable characteristics. [https://www.centralcoastbiodiversity.org/marine-invertebrates.html](https://www.centralcoastbiodiversity.org/marine-invertebrates.html)
 
 *After:* With your species safely housed in the lab, your next task is to study the morphology of your assigned group using the individuals you collected. Run your ideas by your instructors before you start your final measurements.
 
 Once you’ve figured out what to measure, use calipers, a microscope equipped with a camera, or any other appropriate tools to compare the morphology of your closely-related species. Evaluating all of the individuals in your sample will allow you to get a representative idea of diversity in form within species. You will use this information in constructing your ID guide and in teaching your classmates in the sections below.
 
-Once you have completed your morphological study and are confident in your species IDs, your team must upload an image and species-level identification for at least four species to iNaturalist. Login to your account (at [https://www.inaturalist.org/]) and join the project “BMSC-MPED-2021”. 
+Once you have completed your morphological study and are confident in your species IDs, your team must upload an image and species-level identification for at least four species to iNaturalist. Login to your account (at [https://www.inaturalist.org/](https://www.inaturalist.org/)) and join the project “BMSC-MPED-2021”. 
 
 ### C. ID Guide (20 points)
 
