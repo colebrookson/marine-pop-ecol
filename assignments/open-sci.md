@@ -24,7 +24,7 @@ In the 21st century, biologists-in-training are asked to be myriad things includ
 Open science practices are a nebulous set of methods put forward to help address some of the biggest pervasive problems in biology (and science more generally), including the [replication/reproducibility crises](https://www.vox.com/future-perfect/21504366/science-replication-crisis-peer-review-statistics) and increasing numbers of [fraud](https://www.nature.com/articles/d41586-020-00287-y). 
 
 This table from Allen & Mehler (2019) nicely summarizes *what* Open Science methods are: 
-<img align="centre" src="/assets/images/allen-mehler.png" style="padding: 15px" alt="drawing" width = "1000"/>
+<img align="centre" src="https://colebrookson.github.io/marine-pop-ecol/assets/images/allen-mehler.png" style="padding: 15px" alt="drawing" width = "1000"/>
 
 Open science methods allow for more rapid scientific progress; the more open science is, the [more widely it is cited and re-used](https://doi.org/10.1371/journal.pone.0000308). However, while we all might aspire to perfectly open science, nothing is ever perfect, and we must be willing to have conversations with ourselves, our collaborators/supervisors, data stakeholders, and institutions about what exactly “open” means and how to do it. You can find more on the different aspects of Open Science in this [book](https://link.springer.com/book/10.1007/978-3-319-00026-8).
 

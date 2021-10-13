@@ -1,7 +1,7 @@
 ---
 permalink: /assignments/biodiv-sample/
 layout: single
-title: Field Sampling Assignment Overview
+title: Field Biodiversity Sampling Assignment Overview
 author_profile: false
 classes: wide
 excerpt: We will collect organisms from the field and ask questions about how diversity differs according to environment. 
