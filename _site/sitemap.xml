@@ -28,7 +28,7 @@
 <loc>http://localhost:4000/lectures/landing/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/lectures/landing-draft/</loc>
+<loc>http://localhost:4000/lectures/landing/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/assignments/open-sci/</loc>
@@ -88,6 +88,10 @@
 <url>
 <loc>http://localhost:4000/assignments/species-id.pdf</loc>
 <lastmod>2021-09-29T01:54:11-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/lectures/mped-2021-lec01-slides.pdf</loc>
+<lastmod>2021-10-13T01:40:00-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/readings-files/beltran-etal.pdf</loc>
