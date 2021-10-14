@@ -89,8 +89,8 @@ Find here the course schedule for this whirlwind four weeks of content. As conte
         <tr>
             <td>October 14</td>
             <td>Thursday</td>
-            <td>Citizen science, biodiversity assessment</td>
-            <td>Lab - Git/GitHub Review</td>
+            <td>Intertidsal Ecology, Niche Concept</td>
+            <td>Lab - Git/GitHub</td>
             <td style="background-color: #f2e4fd">Guest Lecture - Dr. Shannon Hennessey</td>
             <td>ADA</td>
             <td> </td>
