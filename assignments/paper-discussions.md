@@ -25,7 +25,7 @@ In the sciences, primary literature is the original publication of a scientist's
 
 Ask yourself, does it have a "Materials and Methods" section?  If it has such a section, it is likely primary. This will work for most of the articles you will come across.  There are some exceptions to that rule, however. The best thing is to use your judgment.  Secondary literature includes review articles (which include reviews of the literature) textbooks, and most scholarly or academic books (that repeat information that is already published).  The vast majority of popular periodical publications (magazines, trade journals, newspapers) are usually considered tertiary literature, in that they are repeating information that has already been published and they are usually written for a non-technical audience.
 
-### Hhy should I read primary literature? 
+### Why should I read primary literature? 
 
 Reading primary literature can help you both broaden your knowledge and understand a topic in more detail. It also provides a means to understand how research questions are developed, and how appropriate methods are selected to evaluate the questions at hand. Seeing excellent examples of primary literature can help you improve your own writing and presentation of ideas or data. 
 
