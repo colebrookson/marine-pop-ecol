@@ -120,7 +120,7 @@ Find here the course schedule for this whirlwind four weeks of content. As conte
             <td>October 18</td>
             <td>Monday</td>
             <td rowspan="5">Population Models </td>
-            <td>Lecture</td>
+            <td>Species Life History and Population Dynamics, Introduction to Models</td>
             <td style="background-color: #f88379">Species ID presentations</td>
             <td style="background-color: #f88379">Paper Discussion - Group 2</td>
             <td> </td>
@@ -130,9 +130,9 @@ Find here the course schedule for this whirlwind four weeks of content. As conte
         <tr>
             <td>October 19</td>
             <td>Tuesday</td>
-            <td>Lecture</td>
+            <td>Stage-structured Models, Linear Algebra Review</td>
             <td style="background-color: #f2e4fd">Guest Lecture - Emma Atkinson</td>
-            <td>Lecture</td>
+            <td>Matrix Models</td>
             <td>ADA</td>
             <td> </td>
             <td> </td>
@@ -140,8 +140,7 @@ Find here the course schedule for this whirlwind four weeks of content. As conte
         <tr>
             <td>October 20</td>
             <td>Wednesday</td>
-            <td colspan="2"> Working hours</td>
-            <td style="background-color: #83eeff">Field trip - Historical Society</td>
+            <td colspan="3"> Working hours & Beach Clean-up</td>
             <td>DS</td>
             <td></td>
             <td> </td>
@@ -149,9 +148,9 @@ Find here the course schedule for this whirlwind four weeks of content. As conte
         <tr>
             <td>October 21</td>
             <td>Thursday</td>
-            <td>Lecture</td>
-            <td>Lab</td>
-            <td></td>
+            <td>Sensitivity & Elasticity</td>
+            <td>Matrix Models in R</td>
+            <td>Matrix Models in R</td>
             <td>ADA</td>
             <td> </td>
             <td style="background-color: #f88379">Group 2 Reading Summary due @19:00</td>
@@ -159,9 +158,9 @@ Find here the course schedule for this whirlwind four weeks of content. As conte
         <tr>
             <td>October 22</td>
             <td>Friday</td>
-            <td>Lecture</td>
+            <td style="background-color: #f88379">Prep time - Sampling protocls and questions for sampling assignment</td>
+            <td >Working time</td>
             <td style="background-color: #f88379">Paper Discussion - Group 3</td>
-            <td>Lab</td>
             <td> </td>
             <td> Reading 4 - Godwin et al. (2021)</td>
             <td style="background-color: #f88379">Population Model Proposal due @17:00</td>
@@ -191,8 +190,8 @@ Find here the course schedule for this whirlwind four weeks of content. As conte
             <td>October 26</td>
             <td>Tuesday</td>
             <td>Lecture</td>
+            <td >Lab</td>
             <td style="background-color: #f88379">Paper discussion - Group 4</td>
-            <td>Lab</td>
             <td>ADA</td>
             <td> Reading 5 - Reid et al. (2021)</td>
             <td style="background-color: #f88379">Population assignment due @23:59</td>
@@ -240,7 +239,7 @@ Find here the course schedule for this whirlwind four weeks of content. As conte
             <td>November 01</td>
             <td>Monday</td>
             <td rowspan="5">Conservation, Restoration, Open Science</td>
-            <td>Lecture</td>
+            <td style="background-color: #f2e4fd">Guest Lecture - Dr. Karlisa Calwood</td>
             <td>Lab</td>
             <td style="background-color: #f88379">Sampling Assignment Presentations</td>
             <td> </td>
