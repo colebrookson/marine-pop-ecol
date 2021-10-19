@@ -1,3 +1,33 @@
+---
+layout: 12pt,review
+title: "Lec 01 Math"
+author: 
+  - name: Cole Brookson
+    affiliation: uab
+    email: cole.brookson(at)gmail.com
+    footnote: Corresponding author
+address: 
+  - code: uab
+    address: | 
+      Department of Biological Sciences, 
+      University of Alberta,
+      Edmonton, AB XXXXXX, CAN
+abstract: |
+
+keywords:
+
+bibliography: components/references.bib
+csl: filters/ecology-letters.csl
+documentclass: components/elsarticle
+
+output:
+  pdf_document:
+    fig_caption: true
+    template: components/elsarticle.latex
+    keep_tex: true
+
+---
+
 ## Lecture 01 Math Stuff
 
 ### After slides on exp. growth eq
