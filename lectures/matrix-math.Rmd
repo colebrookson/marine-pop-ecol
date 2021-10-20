@@ -1,0 +1,271 @@
+---
+title: "Matrix Math Notation"
+author: "Cole Brookson"
+date: "10/20/2021"
+output: pdf_document
+---
+
+Let's start by going back to our whale example. We want to have our equations in Markdown. Let's do that by writing some fancy Latex.
+
+So first things first, I'm actually going to change our equations SLIGHTLY from yesterday just to model a different assumption for simplicity. We no longer are going to have this group of reproducing females returning to the female and calf group, you ONLY go back to the mature females in between. So that's just represented like this:
+
+$$N_c(t+1) = N_R(t) b$$
+
+$$N_I(t+1) = N_C(t) s_{IC} + N_I(t) s_{II}$$
+
+$$N_M(t+1) = N_I(t) s_{MI} + N_M(t) s_{MM} + N_R(t)s_{MR}$$
+
+$$N_R(t+1) = N_I(t)s_{RI} + N_M(t)s_{RM}$$
+
+but we'll also want this to be
+
+$$
+\begin{pmatrix}
+N_C(t+1) \\
+N_I(t+1) \\
+N_M(t+1) \\
+N_R(t+1)
+\end{pmatrix} = 
+\begin{pmatrix}
+0 & 0 & 0 & b \\
+S_{IC} & S_{II} & 0 & 0 \\
+0 & S_{MI} & S_{MM} & S_{MR} \\
+0 & S_{RI} & S_{RM} & 0
+\end{pmatrix}
+\begin{pmatrix}
+N_C(t) \\
+N_I(t) \\
+N_M(t) \\
+N_R(t)
+\end{pmatrix}
+$$
+
+How fun!
+
+Ok so let's FINALLY get to our whale example!!! So we have our equations above, so recall what we need is the transition matrix filled with values.
+
+$$
+\begin{pmatrix}
+0 & 0 & 0 & b \\
+0.92 & 0.86 & 0 & 0 \\
+0 & 0.08 & 0.8 & 0.75 \\
+0 & 0.02 & 0.19 & 0
+\end{pmatrix}
+$$
+
+We still need to fill in this birth term term. So that means we need some assumptions. The fecundity assumes a 50% sex ratio, where there is only one calf per mother, and the calf survives to independence due to the mother surviving gestation ($s_{RM}$) and the mother surviving for at least half of the first year of the calf's life ($s_{MR}^{0.5}$)
+
+$$
+\begin{pmatrix}
+0 & 0 & 0 & b \\
+0.92 & 0.86 & 0 & 0 \\
+0 & 0.08 & 0.8 & 0.75 \\
+0 & 0.02 & 0.19 & 0
+\end{pmatrix}
+$$
+
+So just a quick note that these are coming from the a paper from Fujiwara and Caswell (*Nature*, 2001), but I am changing their model a little bit and that's okay, it's just for teaching purposes. So I actually want to say that the birth term above is
+
+$$ b = 0.5 \times s_{RM} \times s_{MR}^{0.5} $$ and that's all good.
+
+Okay so let's get to our question with this this, with just the information we have right now!
+
+```{r}
+# create matrix
+whale_matrix = matrix(data = c(c(0, 0, 0, 0),
+                      c(0.92, 0.86, 0, 0),
+                      c(0, 0.08, 0.8, 0.75),
+                      c(0, 0.02, 0.19, 0)),
+                      nrow = 4, ncol = 4,
+                      byrow = TRUE, 
+                      dimnames = list(c("calf", "immature", "matrue", "adult"),
+                                      c("calf", "immature", "matrue", "adult")))
+whale_eigen = eigen(whale_matrix)
+
+# left eigenvector:
+w = eigen(whale_matrix)$vectors
+v = Conj(solve(w))
+
+# sensativity matrix
+senmat = Re(v[1,] %*% t(w[,1]))
+senmat
+
+# elasticity matrix
+emat = (1/(Re(eigen(whale_matrix)$values[1]))) * senmat * whale_matrix
+
+mat = whale_matrix
+
+library(popbio)
+sensitivity(mat, zero = FALSE)
+elasticity(mat)
+
+sumfec <- sum(emat[1,2:3]) 
+
+giraffe <- matrix(c(0, 0, 0.24, 0.57, 0, 0, 0, 0.79, 0.84), nrow=3, byrow=TRUE, 
+                  dimnames=list(c("calf","subadult","adult"), 
+                                c("calf","subadult","adult"))) 
+ 
+
+mat <- giraffe 
+
+
+```
+
+
+
+
+
+
+```{r}
+library(tidyverse)
+
+# create matrix
+whale_matrix = matrix(data = c(c(0, 0, 0, 0),
+                      c(0.92, 0.86, 0, 0),
+                      c(0, 0.08, 0.8, 0.75),
+                      c(0, 0.02, 0.19, 0)),
+                      nrow = 4, ncol = 4,
+                      byrow = TRUE)
+
+# function to update birth rate
+update_birth_rate = function(matrix) {
+  
+  # pass the row number and column number of the matrix for R to find:
+  sRM = matrix[4,3]
+  sMR = matrix[3,4]
+  
+  # set birth rate equation
+  b = 0.5 * sRM * (sMR^0.5)
+  
+  # update the birth rate location
+  matrix[1,4] = b
+  
+  # return the matrix
+  return(matrix)
+}
+whale_matrix = update_birth_rate(whale_matrix)
+```
+
+So now that we have our transition probabilities, let's simulate this population in time!
+```{r}
+matrix_simulation = function(transition_matrix, 
+                             initial_pop, 
+                             time_steps) {
+  
+  # set a loop to indicate the updated population 
+  updated_pop = initial_pop
+  
+  for(i in 2:time_steps) {
+    updated_pop = transition_matrix %*% updated_pop 
+  }
+  
+  return(updated_pop)
+}
+
+
+# run model with initial of 100 adults for 100 time steps
+sim_100 = matrix_simulation(whale_matrix, 
+                            c(0,0,0,100),
+                            100)
+
+# make matrix of abundance over 100 years
+abundance_df = function(transition_matrix,
+                        initial_pop,
+                        timesteps){
+  
+  pop1 = matrix(rep(0,4*timesteps), 4, timesteps)
+  
+  pop1[,1] = initial_pop
+  
+  for(i in 2:timesteps) {
+    
+    pop1[,i] = (transition_matrix %*% pop1[,i-1])
+    
+    
+  }
+  
+  pop1_for_plot = data.frame(pop = c((pop1[1,]), (pop1[2,]), (pop1[3,]),
+                                     (pop1[4,])),
+                             gen = c(rep('Calves (Females)', timesteps), 
+                                     rep('Immature Females', timesteps),
+                                     rep('Mature Females', timesteps),
+                                     rep('Reproducing Females', timesteps)),
+                             ts = rep(c(1:timesteps), 4))
+}
+
+pop_100_yrs = abundance_df(turtle_stage_matrix,
+                           c(0,0,0,100),
+                           100)
+stage_timeseries = ggplot(data = pop1_for_plot) +
+  geom_line(aes(x = ts, y = pop, colour = gen), size = 1.1) +
+  theme_bw() +
+  theme(
+    panel.grid = element_blank()
+  ) +
+  #scale_colour_manual('Stage', values = pnw_palette('Bay', 5)) +
+  labs(x = 'Time (years)', y = 'Abundance')
+```
+
+
+```{r}
+turtle_stage_matrix = matrix(c(c(0, 0, 0, 4.665, 61.896),
+                      c(0.675,  0.703, 0, 0, 0),
+                      c(0, 0.047, 0.657, 0, 0),
+                      c(0, 0, 0.019, 0.682, 0),
+                      c(0, 0, 0, 0.061, 0.8091)),
+                      5,5,
+                      byrow = TRUE)
+matrix_simulation = function(transition_matrix,
+                             initial_pop,
+                             timesteps) {
+
+  # loop to update matrix 
+  updated_pop = initial_pop
+  
+  for(i in 2:timesteps) {
+    
+    updated_pop = transition_matrix %*% updated_pop
+  }
+
+  return(updated_pop)
+}
+
+# run model with initial of 100 adults for 100 time steps
+sim_100 = matrix_simulation(turtle_stage_matrix, 
+                            c(0,0,0,0,100),
+                            100)
+
+# make matrix of abundance over 100 years
+abundance_df = function(transition_matrix,
+                        initial_pop,
+                        timesteps){
+  
+  pop1 = matrix(rep(0,5*timesteps), 5, timesteps)
+  
+  pop1[,1] = initial_pop
+  
+  for(i in 2:timesteps) {
+    
+    pop1[,i] = (transition_matrix %*% pop1[,i-1])
+    
+    
+  }
+  
+  pop1_for_plot = data.frame(pop = c((pop1[1,]), (pop1[2,]), (pop1[3,]),
+                                     (pop1[4,]),(pop1[5,])),
+                             gen = c(rep('Eggs/hatchlings', timesteps), 
+                                     rep('Small juveniles', timesteps),
+                                     rep('Large juveniles', timesteps),
+                                     rep('Subadults', timesteps),
+                                     rep('Adults', timesteps)),
+                             ts = rep(c(1:timesteps), 5))
+}
+
+pop_100_yrs = abundance_df(turtle_stage_matrix,
+                           c(0,0,0,0,100),
+                           100)
+stage_timeseries = ggplot(data = pop_100_yrs) +
+  geom_line(aes(x = ts, y = pop, colour = gen), size = 1.1) +
+  theme_bw()
+```
+
