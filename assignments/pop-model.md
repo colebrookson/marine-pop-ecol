@@ -154,6 +154,14 @@ The final report will cover all the objectives listed above. It will be a maximu
 
 ### Grading 
 
+An excellent assignment will:
+- Contain all the required information in each section, presented clearly and concisely without errors - All figures and tables will have appropriate captions.
+- Be carefully researched - It will include appropriate references to available literature, which are not just cited but *interpreted*.
+- Be written clearly and concisely – each paragraph will have a topic sentence that summarizes the main point of the paragraph, followed by sentences that present and analyze the evidence supporting each main point. The tone will be appropriate for a formal scientific report. 
+
+#### Proposal Rubric
+
+
 <table class="evaluation-table">
     <thead>
         <tr>
@@ -185,17 +193,15 @@ The final report will cover all the objectives listed above. It will be a maximu
     </tbody>
 </table>
 
-An excellent assignment will:
-- Contain all the required information in each section, presented clearly and concisely without errors - All figures and tables will have appropriate captions.
-- Be carefully researched - It will include appropriate references to available literature, which are not just cited but *interpreted*.
-- Be written clearly and concisely – each paragraph will have a topic sentence that summarizes the main point of the paragraph, followed by sentences that present and analyze the evidence supporting each main point. The tone will be appropriate for a formal scientific report. 
-
-#### Rubric
-
-
 
 ## Submission Details
 
-Use the GitHub classroom link here: [https://classroom.github.com/a/rZDwW2zV](https://classroom.github.com/a/rZDwW2zV) to accept the assignment and view submission instructions. 
+### Proposal Submission:
+
+Use the GitHub classroom link here: [https://classroom.github.com/a/eXKmjwid](https://classroom.github.com/a/eXKmjwid) to accept the assignment and view submission instructions. 
+
+## Final Submission:
+
+**coming soon**
 
 
