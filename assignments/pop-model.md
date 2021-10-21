@@ -180,7 +180,7 @@ The final report will cover all the objectives listed above. It will be a maximu
             <td>Poor (No Marks)</td>
             <td>>1 of a) the choice of variables, b) life stages, or c) the parameters were either not mentioned nor referenced.</td>
             <td>There were >2 incorrect components to the diagram.</td>
-            <td>There were >2 incorrect components to the diagram.</td>
+            <td>There were >2 incorrect components to the equations or the parameter table.</td>
         </tr>
     </tbody>
 </table>
