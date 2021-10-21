@@ -171,7 +171,7 @@ The final report will cover all the objectives listed above. It will be a maximu
             <td>All equations are present, and follow logically and accurately from the life cycle diagram. Parameter symmbols are logical, and all subscripts are accurate. All parameter values are listed clearly in a table, and are accurate to the papers referenced in the life history paragraph.</td>
         </tr>
         <tr>
-            <td>Fair (Partial Marks)</td>
+            <td>Fair (Half Marks)</td>
             <td>Most information included. One of a) the choice of variables, b) life stages, or c) the parameters were either not mentioned nor referenced.</td>
             <td>Almost all important information was included with 1-2 minor mistakes.</td>
             <td>There are 1-2 minor errors in the equations/parameter table.</td>
