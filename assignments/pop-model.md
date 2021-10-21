@@ -154,10 +154,45 @@ The final report will cover all the objectives listed above. It will be a maximu
 
 ### Grading 
 
+<table class="evaluation-table">
+    <thead>
+        <tr>
+            <th width=150>Section</th>
+            <th width=174>Life History Paragraph</th>
+            <th width=174>Life Cycle Diagram</th>
+            <th width=174>Model Equations</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Excellent (Full Marks)</td>
+            <td>All relevant information included. Primary literature supporting the three essential items: a)choices of variables, b) life stages, and c) parameters, are mentioned and referenced. </td>
+            <td>All stages are present, noting transitions, with transition arrows pointing the correct direction, and each arrow labeled with the corresponding parameter.The diagram is clear and easy to follow</td>
+            <td>All equations are present, and follow logically and accurately from the life cycle diagram. Parameter symmbols are logical, and all subscripts are accurate. All parameter values are listed clearly in a table, and are accurate to the papers referenced in the life history paragraph.</td>
+        </tr>
+        <tr>
+            <td>Fair (Partial Marks)</td>
+            <td>Most information included. One of a) the choice of variables, b) life stages, or c) the parameters were either not mentioned nor referenced.</td>
+            <td>Almost all important information was included with 1-2 minor mistakes.</td>
+            <td>There are 1-2 minor errors in the equations/parameter table.</td>
+        </tr>
+        <tr>
+            <td>Poor (No Marks)</td>
+            <td>>1 of a) the choice of variables, b) life stages, or c) the parameters were either not mentioned nor referenced.</td>
+            <td>There were >2 incorrect components to the diagram.</td>
+            <td>There were >2 incorrect components to the diagram.</td>
+        </tr>
+    </tbody>
+</table>
+
 An excellent assignment will:
 - Contain all the required information in each section, presented clearly and concisely without errors - All figures and tables will have appropriate captions.
 - Be carefully researched - It will include appropriate references to available literature, which are not just cited but *interpreted*.
 - Be written clearly and concisely – each paragraph will have a topic sentence that summarizes the main point of the paragraph, followed by sentences that present and analyze the evidence supporting each main point. The tone will be appropriate for a formal scientific report. 
+
+#### Rubric
+
+
 
 ## Submission Details
 
