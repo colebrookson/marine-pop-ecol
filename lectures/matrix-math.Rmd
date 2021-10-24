@@ -235,7 +235,7 @@ There are a number of other fun simulations we could do, but this is enough for 
 
 ## Some other fun tricks:
 
-If you're trying to display a large matrix (i.e. larger than 11x11 in R), you'll need to change a small setting before your matrix. For example, let's make a matrix of 20x20. 
+If you're trying to display a large matrix (i.e. larger than 11x11 in R), you'll need to change a small setting before your matrix. For example, let's make a matrix of 20x20. To do so, right before we begin our matrix with `\begin{pmatrix}`, we use the code `\setcounter{MaxMatrixCols}{20}` where here 20 is the number of rows/columns we want. Then, our matrix looks like this:
 $$
 \setcounter{MaxMatrixCols}{20}
 \begin{pmatrix}
