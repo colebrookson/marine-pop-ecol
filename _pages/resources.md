@@ -13,6 +13,7 @@ header:
   overlay_filter: 0.5
   overlay_image: /assets/images/ides.jpg
   caption: "Photo credit: Stack Overflow"
+toc: true 
 ---
 
 This section of the website will be continually updated with different links/descriptions/videos describing how to perform some of the essential skills you'll need for this course. Hopefully it will also act as a resource to you after this course is over. 
@@ -64,3 +65,9 @@ In the course, for species ID we will be using the popular and user-friendly ide
 There is an excellent series of videos that iNaturalist put out helping new users get up to speed with their app and usage:
 
 <iframe src="https://player.vimeo.com/video/162581545?h=c4adb054f2" width="1200" height="900" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+## Matrix Math in Latex and Matrix Analysis in R
+
+A summary of our class lecture/live-coding session on writing Latex, and doing simple matrix analysis in `R`. 
+
+<embed src="https://colebrookson.github.io/marine-pop-ecol/lectures/matrix-math.pdf" type="application/pdf" width=2000 height=2800/>
