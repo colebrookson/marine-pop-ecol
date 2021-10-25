@@ -26,11 +26,17 @@ Dr. Hennessey completed her PhD at Oregon State University with Dr. Mark Novak. 
 
 Shannon uses her training as both an empirical and quantitative marine ecologist to center research around ecological interactions and behavior, the influence of spatial scaling on ecosystem dynamics, and applying ecological frameworks to social-ecological systems towards informing management and conservation goals. Her current postdoctoral research focuses on evaluating threshold relationships between ecosystem indicators and environmental and human drivers to help target management of Hawai‘i coral reef ecosystems. Research website: [https://shannonmhennessey.weebly.com/](https://shannonmhennessey.weebly.com/)
 
+**Dr. Hennessey's lecture:**
+<iframe src="https://youtu.be/Hl1sq1j_r7I" width="1200" height="900" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+
 ### Emma M. Atkinson <img align="left" src="https://colebrookson.github.io/marine-pop-ecol/assets/images/emma-m-a.jpg" style="padding: 15px" alt="drawing" width="300"/>
 
 Emma is a PhD student at the University of Alberta with Dr. Mark Lewis. Previously, in her undergraduate thesis work at Simon Fraser University and following work with the Pacific Salmon Foundation focused on assessing the population health of Pacific salmon on the British Columbian coast. Emma is a hybrid between a "boots wet" ecologist and an applied mathematician, and enjoys asking and answering questions by confronting her models with data. 
 
 Her current research questions focuses on the population dynamics and fisheries management of marine invertebrates, specifically the British Columbian spot prawn fishery. When she's not coding in R, she likes to cycle, run, and spend time on the water.
+
+**Emma's lecture:**
+<iframe src="https://youtu.be/Rw-Jwh_fQUM" width="1200" height="900" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 ### Dr. Sean C. Godwin <img align="left" src="https://colebrookson.github.io/marine-pop-ecol/assets/images/sean.jpg" style="padding: 15px" alt="drawing" width="300"/>
 
