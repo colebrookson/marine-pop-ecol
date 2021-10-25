@@ -146,7 +146,7 @@ The final report will cover all the objectives listed above. It will be a maximu
         </tr>
         <tr>
             <td>Final Report</td>
-            <td>26 October @09:00</td>
+            <td>27 October @23:59</td>
             <td>18</td>
         </tr>
     </tbody>
@@ -193,6 +193,47 @@ An excellent assignment will:
     </tbody>
 </table>
 
+#### Final Project Rubric
+
+<table class="evaluation-table">
+    <thead>
+        <tr>
+            <th width=100>Section</th>
+            <th width=100>Introduction</th>
+            <th width=100>Model</th>
+            <th width=100>Results</th>
+            <th width=100>Discussion</th>
+            <th width=100>References</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Excellent (Full Marks)</td>
+            <td>All relevant information included. Primary literature is referenced, the structure is clear and informative, and the writing is concise and well-edited. Objectives/hypotheses are clearly stated in the concluding paragraph, and follow logically from the introduction thus far.</td>
+            <td>All equations and components are present and well-described, parameters and state variables are defined. SI material is referenced appropriately. All analyses are described accurately, and the reasoning behind choosing them is outlined clearly.</td>
+            <td>Essential elements are present: growth rate, stable stage distribution, elasticity analysis, and any simulations performed. Parameter values from data and their impact on the model is discussed. It is clear how the results correspond to the stated objectives. Values are stated properly, figures are neat and clear, and there are no errors. </td>
+            <td>The results are contextualized effectively, citing from appropriate sources. The major limitations of the analysis are made clear, any caveats/assumptions are addressed, and logical next-steps for analysis are described. </td>
+            <td>In text references are made when needed using a consistent formal style, and the reference list is complete, correctly formatted and follows consistent style. </td>
+        </tr>
+        <tr>
+            <td>Fair (Half Marks)</td>
+            <td>Most information included, with a few minor ommissions. Objectives are still present, but are perhaps confusing. Formatting is less than perfect, resulting in difficulty reading.</td>
+            <td>Most information included, with a few minor ommissions. Some model information was unclear or missing, but the section was still mostly clear.</td>
+            <td>Most information included, with a few minor ommissions. Some results were unclear or poorly described, but mostly present.</td>
+            <td>Most information included, with a few minor ommissions. Some literature references/context were missed, or some assumptions not made explicit.</td>
+            <td>Most references were correct with a few minor errors.</td>
+        </tr>
+        <tr>
+            <td>Poor (No Marks)</td>
+            <td>Serious lack of information regarding important information above. No objectives/hypotheses stated.</td>
+            <td>Major lack of information or incorrect information regarding model construction and analysis.</td>
+            <td>Key results were not discussed, or were incorrectly interpreted in whole.</td>
+            <td>Major lack of context, assumptions and caveats not at all discussed.</td>
+            <td>Serious issues with in text citations or reference list including multiple missing/miscited references.</td>
+        </tr>
+    </tbody>
+</table>
+
 
 ## Submission Details
 
@@ -202,6 +243,6 @@ Use the GitHub classroom link here: [https://classroom.github.com/a/eXKmjwid](ht
 
 ## Final Submission:
 
-**coming soon**
+Use the GitHub classroom link here: [https://classroom.github.com/a/RnRw17xX](https://classroom.github.com/a/RnRw17xX) to accept the assignment and view submission instructions. 
 
 

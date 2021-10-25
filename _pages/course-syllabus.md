@@ -127,7 +127,7 @@ challenge beyond that expected in any of BMSC’s field courses. However, activi
         </tr>
         <tr>
             <td><a href="/assignments/pop-model/">Population Model</a></td>
-            <td>Tuesday 26 October 2021 @ 23:59</td>
+            <td>Wednesday 27 October 2021 @ 23:59</td>
             <td>25</td>
         </tr>
         <tr>
