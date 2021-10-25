@@ -180,8 +180,8 @@ Find here the course schedule for this whirlwind four weeks of content. As conte
             <td>October 25</td>
             <td>Monday</td>
             <td rowspan="5">Within & Between Ecosystems, Interactions, Biodiversity</td>
-            <td colspan="2" style="background-color: #83eeff">Field trip - Low Tide (1.8m @0920)</td>
-            <td>Lab</td>
+            <td>Field trip prep - Sampling protocols, diversity indices</td>
+            <td>Lecture/Lab - Power Analysis</td>
             <td></td>
             <td> </td>
             <td style="background-color: #f88379">Group 3 Reading Summary due @19:00</td>
@@ -189,8 +189,7 @@ Find here the course schedule for this whirlwind four weeks of content. As conte
         <tr>
             <td>October 26</td>
             <td>Tuesday</td>
-            <td>Lecture</td>
-            <td >Lab</td>
+            <td colspan="2" style="background-color: #83eeff">Field trip - Low Tide (1.8m @0920)</td>
             <td style="background-color: #f88379">Paper discussion - Group 4</td>
             <td>ADA</td>
             <td> Reading 5 - Reid et al. (2021)</td>
@@ -201,7 +200,7 @@ Find here the course schedule for this whirlwind four weeks of content. As conte
             <td>Wednesday</td>
             <td>Lecture</td>
             <td>Lab</td>
-            <td></td>
+            <td style="background-color: #f2e4fd">Guest Lecture - Dr. Sean Godwin</td>
             <td> DS</td>
             <td> </td>
             <td></td>
