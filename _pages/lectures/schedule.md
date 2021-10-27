@@ -216,8 +216,8 @@ Find here the course schedule for this whirlwind four weeks of content. As conte
         <tr>
             <td>October 29</td>
             <td>Friday</td>
-            <td>Lecture</td>
-            <td>Lab</td>
+            <td>Introduction to Conservation & Management</td>
+            <td>Open Period</td>
             <td style="background-color: #f88379">Paper discussion - Group 5</td>
             <td></td>
             <td> Reading 6 - Beltran et al. (2020)</td>
@@ -239,8 +239,8 @@ Find here the course schedule for this whirlwind four weeks of content. As conte
             <td>Monday</td>
             <td rowspan="5">Conservation, Restoration, Open Science</td>
             <td style="background-color: #f2e4fd">Guest Lecture - Dr. Karlisa Calwood</td>
-            <td>Lab</td>
-            <td style="background-color: #f88379">Sampling Assignment Presentations</td>
+            <td>Reproducibility - Dr. Michael Eisen Plenary Talk</td>
+            <td style="background-color: #f88379">Guest Speaker Write-up (In Class)</td>
             <td> </td>
             <td> </td>
             <td style="background-color: #f88379">Group 5 Reading Summary due @17:00</td>
@@ -248,7 +248,7 @@ Find here the course schedule for this whirlwind four weeks of content. As conte
         <tr>
             <td>November 02</td>
             <td>Tuesday</td>
-            <td>Lecture</td>
+            <td style="background-color: #f88379">Sampling Assignment Presentations</td>
             <td>Lab</td>
             <td style="background-color: #f88379">Paper discussion - Group 6</td>
             <td>ADA</td>
@@ -276,7 +276,7 @@ Find here the course schedule for this whirlwind four weeks of content. As conte
         <tr>
             <td>November 05</td>
             <td>Friday</td>
-            <td style="background-color: #f88379">Guest Speaker Write-up (In Class)</td>
+            <td</td>
             <td></td>
             <td></td>
             <td> </td>
