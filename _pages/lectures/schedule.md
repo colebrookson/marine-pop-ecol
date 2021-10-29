@@ -198,8 +198,8 @@ Find here the course schedule for this whirlwind four weeks of content. As conte
         <tr>
             <td>October 27</td>
             <td>Wednesday</td>
-            <td>Lecture</td>
-            <td>Lab</td>
+            <td>Data Management Practices & Metadata</td>
+            <td>Species Richness Modeling</td>
             <td style="background-color: #f2e4fd">Guest Lecture - Dr. Sean Godwin</td>
             <td> DS</td>
             <td> </td>
@@ -239,7 +239,7 @@ Find here the course schedule for this whirlwind four weeks of content. As conte
             <td>Monday</td>
             <td rowspan="5">Conservation, Restoration, Open Science</td>
             <td style="background-color: #f2e4fd">Guest Lecture - Dr. Karlisa Calwood</td>
-            <td>Reproducibility - Dr. Michael Eisen Plenary Talk</td>
+            <td>Reproducibility - Dr. Michael Eisen Plenary Talk & Open Science Discussion</td>
             <td style="background-color: #f88379">Guest Speaker Write-up (In Class)</td>
             <td> </td>
             <td> </td>
@@ -249,7 +249,7 @@ Find here the course schedule for this whirlwind four weeks of content. As conte
             <td>November 02</td>
             <td>Tuesday</td>
             <td style="background-color: #f88379">Sampling Assignment Presentations</td>
-            <td>Lab</td>
+            <td>Ecological Forecasting lecture</td>
             <td style="background-color: #f88379">Paper discussion - Group 6</td>
             <td>ADA</td>
             <td> </td>
@@ -266,9 +266,9 @@ Find here the course schedule for this whirlwind four weeks of content. As conte
         <tr>
             <td>November 04</td>
             <td>Thursday</td>
-            <td>Lecture</td>
-            <td>Lecture</td>
-            <td>Lecture</td>
+            <td>Selected Topics</td>
+            <td>Selected Topics</td>
+            <td>Course Evaluations & Wrap-Up</td>
             <td> </td>
             <td> </td>
             <td style="background-color: #f88379">Group 6 summary due @17:00</td>

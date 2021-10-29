@@ -58,4 +58,4 @@ Your grade will be based on the following criteria:
 
 ## Submission Details
 
-Use the GitHub classroom link here: [https://classroom.github.com/g/Og6uSyIi](https://classroom.github.com/g/Og6uSyIi) to accept the assignment and view submission instructions. 
+Use the GitHub classroom link here: [https://classroom.github.com/a/N43Lb0co](https://classroom.github.com/a/N43Lb0co) to accept the assignment and view submission instructions. 
