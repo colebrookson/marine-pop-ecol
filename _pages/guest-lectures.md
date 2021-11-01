@@ -44,6 +44,9 @@ Sean is an outdoor enthusiast masquerading as a conservation biologist and quant
 
 His primary research motivation is to inform evidence-based conservation and management, particularly in the marine environment. He is broadly interested in determining the impacts of global change on threatened species, understanding the effects of novel stressors on migrating wildlife, and improving the management of aquaculture and wild-capture fisheries. He often uses field experiments and/or statistical modelling approaches to address research questions. To date, much of his research has involved wild Pacific salmon, which have great importance to the ecology, economies, and Indigenous cultures of North America's west coast. Research website: [http://www.seangodwin.org/](http://www.seangodwin.org/)
 
+**Sean's lecture:**
+<iframe src="https://www.youtube.com/watch?v=wLXuICQBIvA" width="1200" height="900" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+
 ### Dr. Karlisa Calwood <img align="left" src="https://colebrookson.github.io/marine-pop-ecol/assets/images/karlissa.jpg" style="padding: 15px" alt="drawing" width="300"/>
 
 Dr. Calwood is a fisheries ecologist who received her PhD from University of Miami in 2016. Her disertation project coupled biophysical modeling, marine ecology, socio-economics, and anthropology to assess the state of the Bahamian Spiny Lobster fishery. She previously completed her MSc thesis, focused on larval connectivity of the Caribbean spiny lobster's habitat. Trained as an ecologist, she uses an interdisciplinary approach to understand what's happening at fisheries from a social side. Much of her work invovles having conversations with different folks involved in fisheries -- fishers, consumers, policy makers -- and gathering a holistic understanding of systems, as opposed to just biological and ecological understandings. 
