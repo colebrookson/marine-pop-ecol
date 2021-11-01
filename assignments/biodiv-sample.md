@@ -50,10 +50,10 @@ Your analyses and displayed results must relate to the hypotheses you made about
 ## 4. Speed talk/ digital presentation (10 points-graded individually)
 Rather than a written report you will create a digital poster presentation as a way for you to practice succinct science communication. Each member of the group will prepare an individual presentation geared towards either the scientific community or the general public. Each digital poster will be encompassed in the equivalent of 1 powerpoint slide and use the graphs and tables created by your group. 
 Your grade will be based on the following criteria:
-* Clarity of your hypothesis/ question
-* Appropriate use of figures and tables as aides
-* Appropriate language for target audience
-* Clarity of results /your conclusions
+* Clarity of your hypothesis/ question (2 points)
+* Appropriate use of figures and tables as aides (3 points)
+* Appropriate language for target audience (3 points)
+* Clarity of results /your conclusions (2 points)
 
 
 ## Submission Details
