@@ -29,21 +29,21 @@ intertidal:
     url: lectures/lec02.pdf
     btn_label: "Click to view slides"
     btn_class: "btn--primary"
-feature_row3:
+populations:
   - image_path: /assets/images/lec03.png
     alt: "placeholder image 2"
-    title: "Populations & Scales"
-    excerpt: ''
-    url: "#test-link"
-    btn_label: "Read More"
+    title: "Populations & Scales - Alex"
+    excerpt: "How do we define a population? At what spatial scales can populations be considered? From small local measurements (like the intertidal), how can we scale up these findings to apply to general population theory? In addition, we discuss how citizen science efforts can help meet these goals."
+    url: lectures/lec03.pdf
+    btn_label: "Click to view slides"
     btn_class: "btn--primary"
-feature_row4:
-  - image_path: /assets/images/sju-math.jpg
+populationscont:
+  - image_path: /assets/images/lec04.png
     alt: "placeholder image 2"
-    title: "Ecological Interactions and Oceanography"
-    excerpt: ''
-    url: "#test-link"
-    btn_label: "Read More"
+    title: "Species Life History & Demographics - Alex"
+    excerpt: "The life history of a species - where it breeds, how long it lives, etc. - plays an enormous role in dictating how populations will grow or decline. We discuss how historical patterns can be used to understand baselines to get a sense for how populations are changing today."
+    url: lectures/lec04.pdf
+    btn_label: "Click to view slides"
     btn_class: "btn--primary"
 feature_row5:
   - image_path: /assets/images/sju-math.jpg
@@ -119,7 +119,8 @@ sidebar:
 
 {% include feature_row id="intertidal" type="right"%}
 
+{% include feature_row id="populations" type="left"%}
 
-
+{% include feature_row id="populationscont" type="right"%}
 
 
