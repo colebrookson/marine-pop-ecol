@@ -33,7 +33,7 @@ Shannon uses her training as both an empirical and quantitative marine ecologist
     - but also with your rendering/illustration process - sometimes 'traditional' is a good foundation but find a process that works for you!
 
 **Dr. Hennessey's lecture:**
-<iframe src="https://youtu.be/Hl1sq1j_r7I" width="1200" height="900" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hl1sq1j_r7I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Emma M. Atkinson <img align="left" src="https://colebrookson.github.io/marine-pop-ecol/assets/images/emma-m-a.jpg" style="padding: 15px" alt="drawing" width="300"/>
 
@@ -47,7 +47,7 @@ Her current research questions focuses on the population dynamics and fisheries 
 3. Good communication supports good science
 
 **Emma's lecture:**
-<iframe src="https://youtu.be/Rw-Jwh_fQUM" width="1200" height="900" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rw-Jwh_fQUM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Dr. Sean C. Godwin <img align="left" src="https://colebrookson.github.io/marine-pop-ecol/assets/images/sean.jpg" style="padding: 15px" alt="drawing" width="300"/>
 
@@ -62,7 +62,7 @@ His primary research motivation is to inform evidence-based conservation and man
     - don't wait until you need a job to reach out and talk to folks who are working in the field you are interested in
 
 **Sean's lecture:**
-<iframe src="https://www.youtube.com/watch?v=wLXuICQBIvA" width="1200" height="900" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wLXuICQBIvA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Dr. Karlisa Callwood <img align="left" src="https://colebrookson.github.io/marine-pop-ecol/assets/images/karlissa.jpg" style="padding: 15px" alt="drawing" width="300"/>
 
