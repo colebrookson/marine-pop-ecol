@@ -12,28 +12,27 @@ header:
       url: ""
   caption: "Photo credit: [**Laniece Williams**](https://www.sju.edu/news/whiteboard-ipad-teaching-math-virtually)"
 intro: 
-  - excerpt: 'Here you will find all the lecture materials organized by topic. Slides are given as PDF files and recordings will be added as soon as possible as embedded YouTube videos to the pages.'
-feature_row:
+  - excerpt: 'Here you will find all the lecture materials organized by topic. Slides are given as PDF files and recordings will be made available at a later date.'
+introlec:
   - image_path: /assets/images/lec01.png
     alt: "bamfield-sampling"
-    title: "Welcome & Overview"
+    title: "Welcome & Overview - Alex & Cole"
     excerpt: 'Who are we? What are we going to do? Why are we doing this??'
     url: lectures/mped-2021-lec01-slides.pdf
-    btn_label: "Read More"
+    btn_label: "Click to view slides"
     btn_class: "btn--primary"
-feature_row2:
-  - image_path: /assets/images/barnacles.jpg
+intertidal:
+  - image_path: /assets/images/lec02.png
     alt: "barnacles"
-    title: "Intertidal Ecology and Niche Concept"
-    excerpt: 'What could be driving patterns of species distribution in the rocky intertidal? **Niche:** the set of abiotic and biotic conditions under which an organism can survive and reproduce.
-'
-    url: "#test-link"
-    btn_label: "Read More"
+    title: "Intertidal Ecology and Niche Concept - Alex"
+    excerpt: 'What could be driving patterns of species distribution in the rocky intertidal? **Niche:** the set of abiotic and biotic conditions under which an organism can survive and reproduce.'
+    url: lectures/lec02.pdf
+    btn_label: "Click to view slides"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/images/sju-math.jpg
+  - image_path: /assets/images/lec03.png
     alt: "placeholder image 2"
-    title: "Biodiversity Assessment & Citizen Science"
+    title: "Populations & Scales"
     excerpt: ''
     url: "#test-link"
     btn_label: "Read More"
@@ -116,7 +115,10 @@ sidebar:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="feature_row" type="left"%}
+{% include feature_row id="introlec" type="left"%}
+
+{% include feature_row id="intertidal" type="right"%}
+
 
 
 

@@ -80,7 +80,7 @@ Find here the course schedule for this whirlwind four weeks of content. As conte
             <td>Wednesday</td>
             <td rowspan="3">Patterns & Processes</td>
             <td>Syllabus, introductions, course goals </td>
-            <td>Niche concept, biodiversity patterns & precesses</td>
+            <td>Intertidsal Ecology, Niche Concept</td>
             <td>Lab - ID Assignment</td>
             <td> </td>
             <td>Reading 1 - Harley (2011)</td>
@@ -89,7 +89,7 @@ Find here the course schedule for this whirlwind four weeks of content. As conte
         <tr>
             <td>October 14</td>
             <td>Thursday</td>
-            <td>Intertidsal Ecology, Niche Concept</td>
+            <td>Populations & Scale I</td>
             <td>Lab - Git/GitHub</td>
             <td style="background-color: #f2e4fd">Guest Lecture - Dr. Shannon Hennessey</td>
             <td>ADA</td>
@@ -99,7 +99,7 @@ Find here the course schedule for this whirlwind four weeks of content. As conte
         <tr>
             <td>October 15</td>
             <td>Friday </td>
-            <td>Population assessment</td>
+            <td>Populations & Scale II</td>
             <td style="background-color: #f88379"> Paper Discussion - Group 1</td>
             <td colspan="2" style="background-color: #83eeff">Field trip - Low Tide (1.6m tide @15:30)</td>
             <td> Reading 2 - Bernhardt & O'Connor (2021)</td>
@@ -120,7 +120,7 @@ Find here the course schedule for this whirlwind four weeks of content. As conte
             <td>October 18</td>
             <td>Monday</td>
             <td rowspan="5">Population Models </td>
-            <td>Species Life History and Population Dynamics, Introduction to Models</td>
+            <td>Species Life History and Demographics</td>
             <td style="background-color: #f88379">Species ID presentations</td>
             <td style="background-color: #f88379">Paper Discussion - Group 2</td>
             <td> </td>
@@ -130,9 +130,9 @@ Find here the course schedule for this whirlwind four weeks of content. As conte
         <tr>
             <td>October 19</td>
             <td>Tuesday</td>
-            <td>Stage-structured Models, Linear Algebra Review</td>
+            <td>Linear Algebra Review</td>
             <td style="background-color: #f2e4fd">Guest Lecture - Emma Atkinson</td>
-            <td>Matrix Models</td>
+            <td>Stage-Structured Models I</td>
             <td>ADA</td>
             <td> </td>
             <td> </td>
@@ -140,7 +140,8 @@ Find here the course schedule for this whirlwind four weeks of content. As conte
         <tr>
             <td>October 20</td>
             <td>Wednesday</td>
-            <td colspan="3"> Working hours & Beach Clean-up</td>
+            <td>Stage-Structured Models II - R</td>
+            <td colspan="2"> Working hours & Beach Clean-up</td>
             <td>DS</td>
             <td></td>
             <td> </td>
@@ -149,8 +150,8 @@ Find here the course schedule for this whirlwind four weeks of content. As conte
             <td>October 21</td>
             <td>Thursday</td>
             <td>Sensitivity & Elasticity</td>
-            <td>Matrix Models in R</td>
-            <td>Matrix Models in R</td>
+            <td>Matrix Models in R I</td>
+            <td>Matrix Models in R II</td>
             <td>ADA</td>
             <td> </td>
             <td style="background-color: #f88379">Group 2 Reading Summary due @19:00</td>
@@ -181,7 +182,7 @@ Find here the course schedule for this whirlwind four weeks of content. As conte
             <td>Monday</td>
             <td rowspan="5">Within & Between Ecosystems, Interactions, Biodiversity</td>
             <td>Field trip prep - Sampling protocols, diversity indices</td>
-            <td>Lecture/Lab - Power Analysis</td>
+            <td>Power Analysis</td>
             <td></td>
             <td> </td>
             <td style="background-color: #f88379">Group 3 Reading Summary due @19:00</td>
@@ -239,7 +240,7 @@ Find here the course schedule for this whirlwind four weeks of content. As conte
             <td>Monday</td>
             <td rowspan="5">Conservation, Restoration, Open Science</td>
             <td style="background-color: #f2e4fd">Guest Lecture - Dr. Karlisa Calwood</td>
-            <td>Reproducibility - Dr. Michael Eisen Plenary Talk & Open Science Discussion</td>
+            <td>Reproducibility - Dr. Michael Eisen Talk</td>
             <td style="background-color: #f88379">Guest Speaker Write-up (In Class)</td>
             <td> </td>
             <td> </td>
@@ -249,7 +250,7 @@ Find here the course schedule for this whirlwind four weeks of content. As conte
             <td>November 02</td>
             <td>Tuesday</td>
             <td style="background-color: #f88379">Sampling Assignment Presentations</td>
-            <td>Ecological Forecasting lecture</td>
+            <td>Open Science, Ecological Forecasting</td>
             <td style="background-color: #f88379">Paper discussion - Group 6</td>
             <td>ADA</td>
             <td> </td>
